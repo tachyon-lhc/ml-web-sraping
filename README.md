@@ -18,15 +18,17 @@ El scraper genera un archivo CSV con la siguiente estructura:
 
 ## Estructura base
 
+<pre>
 ml-web-scraping/
 ├── images/
 ├── src/
-│ ├── analysis/
-│ ├── cleaning/
-│ ├── processing/
-│ ├── scraper/
-│ ├── test/
-│ └── main.py
+│   ├── analysis/
+│   ├── cleaning/
+│   ├── processing/
+│   ├── scraper/
+│   ├── test/
+│   └── main.py
 ├── data/
 ├── requirements.txt
 └── README.md
+</pre>
