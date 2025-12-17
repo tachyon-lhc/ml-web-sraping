@@ -4,8 +4,6 @@
 
 ![Web de MercadoLibre](./images/web_ml.png)
 
-![Ejecución del scraper](./images/scraping_menu.png)
-
 ## Ejemplo de datos generados
 
 El scraper genera un archivo CSV con la siguiente estructura:
@@ -26,9 +24,9 @@ ml-web-scraping/
 │ ├── analysis/
 │ ├── cleaning/
 │ ├── processing/
-│ ├──scraper/
+│ ├── scraper/
 │ ├── test/
-│ └──main.py
+│ └── main.py
 ├── data/
 ├── requirements.txt
 └── README.md
