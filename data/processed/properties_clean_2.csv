@@ -1,0 +1,1671 @@
+id,price,rooms,bathrooms,square_meters,zone,city,price_per_m2
+1,90000,3,1,112,Buenos Aires Interior,Lujan,804
+2,115000,4,3,170,Buenos Aires Interior,Lujan,676
+3,148000,5,2,140,Buenos Aires Interior,Lujan,1057
+4,160000,4,2,210,Buenos Aires Interior,Lujan,762
+5,175000,4,3,900,Buenos Aires Interior,Lujan,194
+6,175000,4,2,164,Buenos Aires Interior,Lujan,1067
+7,197000,4,2,180,Buenos Aires Interior,Lujan,1094
+8,199000,5,4,176,Buenos Aires Interior,Lujan,1131
+9,205000,5,2,143,Buenos Aires Interior,Lujan,1434
+10,220000,4,3,167,Buenos Aires Interior,Lujan,1317
+11,235000,5,4,181,Buenos Aires Interior,Lujan,1298
+12,235000,5,3,190,Buenos Aires Interior,Lujan,1237
+13,240000,4,2,154,Buenos Aires Interior,Lujan,1558
+14,240000,4,2,168,Buenos Aires Interior,Lujan,1429
+15,249000,5,3,200,Buenos Aires Interior,Lujan,1245
+16,250000,3,3,160,Buenos Aires Interior,Lujan,1562
+17,250000,5,3,176,Buenos Aires Interior,Lujan,1420
+18,255000,5,2,300,Buenos Aires Interior,Lujan,850
+19,260000,5,2,271,Buenos Aires Interior,Lujan,959
+20,270000,4,3,390,Buenos Aires Interior,Lujan,692
+21,279000,8,5,309,Buenos Aires Interior,Lujan,903
+22,280000,5,2,169,Buenos Aires Interior,Lujan,1657
+23,285000,4,3,216,Buenos Aires Interior,Lujan,1319
+24,285000,8,3,235,Buenos Aires Interior,Lujan,1213
+25,290000,5,3,134,Buenos Aires Interior,Lujan,2164
+26,295000,5,3,185,Buenos Aires Interior,Lujan,1595
+27,310000,6,3,400,Buenos Aires Interior,Lujan,775
+28,320000,5,3,206,Buenos Aires Interior,Lujan,1553
+29,338000,5,3,212,Buenos Aires Interior,Lujan,1594
+30,345000,5,4,302,Buenos Aires Interior,Lujan,1142
+31,350000,5,3,257,Buenos Aires Interior,Lujan,1362
+32,350000,6,2,257,Buenos Aires Interior,Lujan,1362
+33,390000,6,4,282,Buenos Aires Interior,Lujan,1383
+34,395000,8,5,479,Buenos Aires Interior,Lujan,825
+35,395000,5,4,375,Buenos Aires Interior,Lujan,1053
+36,400000,7,4,410,Buenos Aires Interior,Lujan,976
+37,545000,5,5,280,Buenos Aires Interior,Lujan,1946
+38,550000,5,2,277,Buenos Aires Interior,Lujan,1986
+39,650000,7,5,500,Buenos Aires Interior,Lujan,1300
+40,690000,6,4,460,Buenos Aires Interior,Lujan,1500
+41,880000,7,6,385,Buenos Aires Interior,Lujan,2286
+42,78000,3,2,130,Buenos Aires Interior,San Vicente,600
+43,135000,6,2,150,Buenos Aires Interior,San Vicente,900
+44,164900,5,4,226,Buenos Aires Interior,San Vicente,730
+45,180000,4,2,124,Buenos Aires Interior,San Vicente,1452
+46,195000,5,2,170,Buenos Aires Interior,San Vicente,1147
+47,209000,4,2,175,Buenos Aires Interior,San Vicente,1194
+48,219000,4,3,195,Buenos Aires Interior,San Vicente,1123
+49,219000,4,2,152,Buenos Aires Interior,San Vicente,1441
+50,222900,4,3,173,Buenos Aires Interior,San Vicente,1288
+51,229000,4,3,195,Buenos Aires Interior,San Vicente,1174
+52,230000,4,3,211,Buenos Aires Interior,San Vicente,1090
+53,244900,4,2,165,Buenos Aires Interior,San Vicente,1484
+54,250000,5,2,177,Buenos Aires Interior,San Vicente,1412
+55,254000,3,2,180,Buenos Aires Interior,San Vicente,1411
+56,254000,3,2,180,Buenos Aires Interior,San Vicente,1411
+57,264999,5,4,182,Buenos Aires Interior,San Vicente,1456
+58,266000,5,3,228,Buenos Aires Interior,San Vicente,1167
+59,269000,5,3,190,Buenos Aires Interior,San Vicente,1416
+60,275000,6,2,200,Buenos Aires Interior,San Vicente,1375
+61,279000,4,2,157,Buenos Aires Interior,San Vicente,1777
+62,279000,4,2,168,Buenos Aires Interior,San Vicente,1661
+63,280000,6,2,203,Buenos Aires Interior,San Vicente,1379
+64,289999,5,4,182,Buenos Aires Interior,San Vicente,1593
+65,300000,5,4,180,Buenos Aires Interior,San Vicente,1667
+66,315000,5,4,191,Buenos Aires Interior,San Vicente,1649
+67,319999,4,4,240,Buenos Aires Interior,San Vicente,1333
+68,320000,5,3,300,Buenos Aires Interior,San Vicente,1067
+69,325000,4,3,265,Buenos Aires Interior,San Vicente,1226
+70,335000,6,2,177,Buenos Aires Interior,San Vicente,1893
+71,349000,5,4,230,Buenos Aires Interior,San Vicente,1517
+72,389000,5,3,190,Buenos Aires Interior,San Vicente,2047
+73,435000,5,3,290,Buenos Aires Interior,San Vicente,1500
+74,450000,7,2,335,Buenos Aires Interior,San Vicente,1343
+75,465000,6,3,214,Buenos Aires Interior,San Vicente,2173
+76,489000,5,3,375,Buenos Aires Interior,San Vicente,1304
+77,490000,5,4,335,Buenos Aires Interior,San Vicente,1463
+78,545000,5,4,457,Buenos Aires Interior,San Vicente,1193
+79,585000,6,4,330,Buenos Aires Interior,San Vicente,1773
+80,595000,9,7,530,Buenos Aires Interior,San Vicente,1123
+81,749000,6,4,552,Buenos Aires Interior,San Vicente,1357
+82,750000,6,4,460,Buenos Aires Interior,San Vicente,1630
+83,890000,4,4,400,Buenos Aires Interior,San Vicente,2225
+84,160000,4,2,123,Costa Atlántica,Costa Esmeralda,1301
+85,175000,3,2,144,Costa Atlántica,Costa Esmeralda,1215
+86,180000,5,3,150,Costa Atlántica,Costa Esmeralda,1200
+87,195000,6,3,144,Costa Atlántica,Costa Esmeralda,1354
+88,195000,4,2,140,Costa Atlántica,Costa Esmeralda,1393
+89,199000,4,2,148,Costa Atlántica,Costa Esmeralda,1345
+90,205000,4,2,150,Costa Atlántica,Costa Esmeralda,1367
+91,220000,5,2,185,Costa Atlántica,Costa Esmeralda,1189
+92,225000,4,2,150,Costa Atlántica,Costa Esmeralda,1500
+93,230000,5,2,158,Costa Atlántica,Costa Esmeralda,1456
+94,240000,4,2,128,Costa Atlántica,Costa Esmeralda,1875
+95,240000,5,3,242,Costa Atlántica,Costa Esmeralda,992
+96,255000,6,3,180,Costa Atlántica,Costa Esmeralda,1417
+97,275000,4,2,146,Costa Atlántica,Costa Esmeralda,1884
+98,280000,5,2,160,Costa Atlántica,Costa Esmeralda,1750
+99,280000,4,4,228,Costa Atlántica,Costa Esmeralda,1228
+100,290000,6,3,220,Costa Atlántica,Costa Esmeralda,1318
+101,295000,5,3,170,Costa Atlántica,Costa Esmeralda,1735
+102,300000,5,2,160,Costa Atlántica,Costa Esmeralda,1875
+103,310000,5,3,170,Costa Atlántica,Costa Esmeralda,1824
+104,320000,6,4,192,Costa Atlántica,Costa Esmeralda,1667
+105,330000,5,3,220,Costa Atlántica,Costa Esmeralda,1500
+106,334000,4,3,190,Costa Atlántica,Costa Esmeralda,1758
+107,340000,6,3,200,Costa Atlántica,Costa Esmeralda,1700
+108,390000,6,3,300,Costa Atlántica,Costa Esmeralda,1300
+109,400000,5,3,240,Costa Atlántica,Costa Esmeralda,1667
+110,420000,5,4,230,Costa Atlántica,Costa Esmeralda,1826
+111,450000,5,3,212,Costa Atlántica,Costa Esmeralda,2123
+112,470000,7,3,250,Costa Atlántica,Costa Esmeralda,1880
+113,480000,5,3,224,Costa Atlántica,Costa Esmeralda,2143
+114,490000,5,3,190,Costa Atlántica,Costa Esmeralda,2579
+115,550000,5,3,220,Costa Atlántica,Costa Esmeralda,2500
+116,599000,6,6,316,Costa Atlántica,Costa Esmeralda,1896
+117,600000,6,4,250,Costa Atlántica,Costa Esmeralda,2400
+118,600000,6,4,250,Costa Atlántica,Costa Esmeralda,2400
+119,660000,4,2,260,Costa Atlántica,Costa Esmeralda,2538
+120,800000,5,4,192,Costa Atlántica,Costa Esmeralda,4167
+121,32000,1,1,34,Costa Atlántica,Mar de Ajo,941
+122,37000,2,1,50,Costa Atlántica,Mar de Ajo,740
+123,37000,2,1,37,Costa Atlántica,Mar de Ajo,1000
+124,37000,3,1,69,Costa Atlántica,Mar de Ajo,536
+125,41500,3,1,36,Costa Atlántica,Mar de Ajo,1153
+126,45000,3,2,49,Costa Atlántica,Mar de Ajo,918
+127,45000,3,1,50,Costa Atlántica,Mar de Ajo,900
+128,50000,4,2,300,Costa Atlántica,Mar de Ajo,167
+129,52000,3,2,70,Costa Atlántica,Mar de Ajo,743
+130,60000,3,1,67,Costa Atlántica,Mar de Ajo,896
+131,64000,3,2,82,Costa Atlántica,Mar de Ajo,780
+132,65000,3,2,80,Costa Atlántica,Mar de Ajo,812
+133,65000,4,2,70,Costa Atlántica,Mar de Ajo,929
+134,65000,4,2,50,Costa Atlántica,Mar de Ajo,1300
+135,68000,5,2,70,Costa Atlántica,Mar de Ajo,971
+136,70000,2,3,50,Costa Atlántica,Mar de Ajo,1400
+137,72000,2,2,60,Costa Atlántica,Mar de Ajo,1200
+138,77000,5,2,110,Costa Atlántica,Mar de Ajo,700
+139,80000,4,2,52,Costa Atlántica,Mar de Ajo,1538
+140,82000,4,1,134,Costa Atlántica,Mar de Ajo,612
+141,85000,2,2,150,Costa Atlántica,Mar de Ajo,567
+142,85000,3,1,88,Costa Atlántica,Mar de Ajo,966
+143,90000,3,2,90,Costa Atlántica,Mar de Ajo,1000
+144,98000,4,2,78,Costa Atlántica,Mar de Ajo,1256
+145,98000,4,2,78,Costa Atlántica,Mar de Ajo,1256
+146,98500,4,2,80,Costa Atlántica,Mar de Ajo,1231
+147,99000,3,1,68,Costa Atlántica,Mar de Ajo,1456
+148,99000,3,1,50,Costa Atlántica,Mar de Ajo,1980
+149,110000,6,4,390,Costa Atlántica,Mar de Ajo,282
+150,121500,4,2,90,Costa Atlántica,Mar de Ajo,1350
+151,145000,4,3,106,Costa Atlántica,Mar de Ajo,1368
+152,150000,8,4,200,Costa Atlántica,Mar de Ajo,750
+153,160000,4,2,161,Costa Atlántica,Mar de Ajo,994
+154,168000,8,3,270,Costa Atlántica,Mar de Ajo,622
+155,175000,3,3,106,Costa Atlántica,Mar de Ajo,1651
+156,190000,3,1,300,Costa Atlántica,Mar de Ajo,633
+157,210000,7,2,114,Costa Atlántica,Mar de Ajo,1842
+158,294000,8,4,210,Costa Atlántica,Mar de Ajo,1400
+159,310000,5,3,254,Costa Atlántica,Mar de Ajo,1220
+160,380000,5,4,386,Costa Atlántica,Mar de Ajo,984
+161,42000,3,1,85,Costa Atlántica,Mar del Plata,494
+162,49000,3,1,158,Costa Atlántica,Mar del Plata,310
+163,64900,3,2,96,Costa Atlántica,Mar del Plata,676
+164,75000,3,1,65,Costa Atlántica,Mar del Plata,1154
+165,78900,3,2,56,Costa Atlántica,Mar del Plata,1409
+166,94900,3,1,118,Costa Atlántica,Mar del Plata,804
+167,95000,5,1,90,Costa Atlántica,Mar del Plata,1056
+168,95000,3,2,103,Costa Atlántica,Mar del Plata,922
+169,99900,1,1,70,Costa Atlántica,Mar del Plata,1427
+170,110000,4,2,158,Costa Atlántica,Mar del Plata,696
+171,125000,2,2,98,Costa Atlántica,Mar del Plata,1276
+172,139000,2,2,82,Costa Atlántica,Mar del Plata,1695
+173,155000,4,3,130,Costa Atlántica,Mar del Plata,1192
+174,175000,4,1,150,Costa Atlántica,Mar del Plata,1167
+175,180000,3,1,106,Costa Atlántica,Mar del Plata,1698
+176,190000,6,4,157,Costa Atlántica,Mar del Plata,1210
+177,195000,4,2,217,Costa Atlántica,Mar del Plata,899
+178,195000,4,3,235,Costa Atlántica,Mar del Plata,830
+179,200000,5,2,455,Costa Atlántica,Mar del Plata,440
+180,205000,5,3,156,Costa Atlántica,Mar del Plata,1314
+181,210000,5,3,185,Costa Atlántica,Mar del Plata,1135
+182,210000,4,3,333,Costa Atlántica,Mar del Plata,631
+183,217000,5,2,213,Costa Atlántica,Mar del Plata,1019
+184,240000,6,3,233,Costa Atlántica,Mar del Plata,1030
+185,245000,4,2,158,Costa Atlántica,Mar del Plata,1551
+186,264900,5,4,230,Costa Atlántica,Mar del Plata,1152
+187,269000,5,2,165,Costa Atlántica,Mar del Plata,1630
+188,270000,3,3,300,Costa Atlántica,Mar del Plata,900
+189,280000,4,2,160,Costa Atlántica,Mar del Plata,1750
+190,289900,5,3,248,Costa Atlántica,Mar del Plata,1169
+191,295000,3,2,170,Costa Atlántica,Mar del Plata,1735
+192,335000,4,1,183,Costa Atlántica,Mar del Plata,1831
+193,349000,4,3,262,Costa Atlántica,Mar del Plata,1332
+194,350000,3,3,98,Costa Atlántica,Mar del Plata,3571
+195,359900,4,2,180,Costa Atlántica,Mar del Plata,1999
+196,360000,4,3,150,Costa Atlántica,Mar del Plata,2400
+197,380000,4,1,220,Costa Atlántica,Mar del Plata,1727
+198,420000,5,4,280,Costa Atlántica,Mar del Plata,1500
+199,425000,5,2,300,Costa Atlántica,Mar del Plata,1417
+200,510000,4,4,400,Costa Atlántica,Mar del Plata,1275
+201,650000,6,3,376,Costa Atlántica,Mar del Plata,1729
+202,650000,5,4,260,Costa Atlántica,Mar del Plata,2500
+203,650000,5,5,300,Costa Atlántica,Mar del Plata,2167
+204,1200000,6,6,378,Costa Atlántica,Mar del Plata,3175
+205,1400000,7,4,522,Costa Atlántica,Mar del Plata,2682
+206,25000,3,1,50,Costa Atlántica,Mar del Tuyu,500
+207,30000,4,2,50,Costa Atlántica,Mar del Tuyu,600
+208,30000,3,1,50,Costa Atlántica,Mar del Tuyu,600
+209,31000,3,2,50,Costa Atlántica,Mar del Tuyu,620
+210,31000,3,1,50,Costa Atlántica,Mar del Tuyu,620
+211,32000,3,1,70,Costa Atlántica,Mar del Tuyu,457
+212,32000,3,1,70,Costa Atlántica,Mar del Tuyu,457
+213,32000,4,1,50,Costa Atlántica,Mar del Tuyu,640
+214,32500,3,1,70,Costa Atlántica,Mar del Tuyu,464
+215,33000,3,1,37,Costa Atlántica,Mar del Tuyu,892
+216,35000,3,1,45,Costa Atlántica,Mar del Tuyu,778
+217,35000,3,1,50,Costa Atlántica,Mar del Tuyu,700
+218,35000,3,1,90,Costa Atlántica,Mar del Tuyu,389
+219,35000,3,2,65,Costa Atlántica,Mar del Tuyu,538
+220,36000,3,1,45,Costa Atlántica,Mar del Tuyu,800
+221,37500,3,1,60,Costa Atlántica,Mar del Tuyu,625
+222,38000,3,1,70,Costa Atlántica,Mar del Tuyu,543
+223,38000,3,1,70,Costa Atlántica,Mar del Tuyu,543
+224,38000,3,2,60,Costa Atlántica,Mar del Tuyu,633
+225,38500,3,1,70,Costa Atlántica,Mar del Tuyu,550
+226,39500,3,1,65,Costa Atlántica,Mar del Tuyu,608
+227,39999,4,2,65,Costa Atlántica,Mar del Tuyu,615
+228,40000,3,2,66,Costa Atlántica,Mar del Tuyu,606
+229,40000,4,2,55,Costa Atlántica,Mar del Tuyu,727
+230,40000,4,2,50,Costa Atlántica,Mar del Tuyu,800
+231,43000,4,2,35,Costa Atlántica,Mar del Tuyu,1229
+232,43000,4,2,50,Costa Atlántica,Mar del Tuyu,860
+233,43900,4,1,65,Costa Atlántica,Mar del Tuyu,675
+234,45000,3,2,60,Costa Atlántica,Mar del Tuyu,750
+235,48000,3,1,110,Costa Atlántica,Mar del Tuyu,436
+236,53000,5,3,45,Costa Atlántica,Mar del Tuyu,1178
+237,55000,3,1,75,Costa Atlántica,Mar del Tuyu,733
+238,55000,4,2,90,Costa Atlántica,Mar del Tuyu,611
+239,55000,3,1,71,Costa Atlántica,Mar del Tuyu,775
+240,55000,4,2,45,Costa Atlántica,Mar del Tuyu,1222
+241,55000,4,2,50,Costa Atlántica,Mar del Tuyu,1100
+242,57000,3,1,60,Costa Atlántica,Mar del Tuyu,950
+243,57000,3,1,81,Costa Atlántica,Mar del Tuyu,704
+244,59000,4,2,50,Costa Atlántica,Mar del Tuyu,1180
+245,59500,4,2,65,Costa Atlántica,Mar del Tuyu,915
+246,65000,5,2,60,Costa Atlántica,Mar del Tuyu,1083
+247,74000,3,2,80,Costa Atlántica,Mar del Tuyu,925
+248,75000,4,2,70,Costa Atlántica,Mar del Tuyu,1071
+249,98000,2,1,60,Costa Atlántica,Mar del Tuyu,1633
+250,120000,5,3,170,Costa Atlántica,Mar del Tuyu,706
+251,140000,4,2,138,Costa Atlántica,Mar del Tuyu,1014
+252,200000,5,2,55,Costa Atlántica,Mar del Tuyu,3636
+253,94900,3,1,80,Costa Atlántica,Pinamar,1186
+254,109000,3,2,57,Costa Atlántica,Pinamar,1912
+255,120000,4,2,53,Costa Atlántica,Pinamar,2264
+256,150000,5,3,140,Costa Atlántica,Pinamar,1071
+257,165000,4,2,120,Costa Atlántica,Pinamar,1375
+258,188000,5,2,148,Costa Atlántica,Pinamar,1270
+259,204000,5,3,204,Costa Atlántica,Pinamar,1000
+260,205000,4,4,100,Costa Atlántica,Pinamar,2050
+261,208000,5,4,215,Costa Atlántica,Pinamar,967
+262,215000,5,2,215,Costa Atlántica,Pinamar,1000
+263,230000,5,2,204,Costa Atlántica,Pinamar,1127
+264,239000,5,3,230,Costa Atlántica,Pinamar,1039
+265,250000,5,3,164,Costa Atlántica,Pinamar,1524
+266,264000,5,4,270,Costa Atlántica,Pinamar,978
+267,265000,5,3,333,Costa Atlántica,Pinamar,796
+268,269000,5,4,185,Costa Atlántica,Pinamar,1454
+269,276000,6,3,235,Costa Atlántica,Pinamar,1174
+270,289000,5,3,210,Costa Atlántica,Pinamar,1376
+271,295000,4,3,168,Costa Atlántica,Pinamar,1756
+272,300000,3,2,89,Costa Atlántica,Pinamar,3371
+273,325000,4,2,189,Costa Atlántica,Pinamar,1720
+274,335000,4,3,200,Costa Atlántica,Pinamar,1675
+275,365000,5,2,170,Costa Atlántica,Pinamar,2147
+276,380000,6,3,350,Costa Atlántica,Pinamar,1086
+277,395000,7,5,292,Costa Atlántica,Pinamar,1353
+278,398000,4,2,210,Costa Atlántica,Pinamar,1895
+279,400000,4,3,200,Costa Atlántica,Pinamar,2000
+280,420000,4,4,300,Costa Atlántica,Pinamar,1400
+281,420000,4,2,210,Costa Atlántica,Pinamar,2000
+282,420000,5,2,240,Costa Atlántica,Pinamar,1750
+283,429000,5,3,230,Costa Atlántica,Pinamar,1865
+284,450000,4,2,250,Costa Atlántica,Pinamar,1800
+285,460000,7,3,215,Costa Atlántica,Pinamar,2140
+286,470000,5,3,295,Costa Atlántica,Pinamar,1593
+287,470000,5,3,227,Costa Atlántica,Pinamar,2070
+288,490000,5,5,380,Costa Atlántica,Pinamar,1289
+289,495000,5,3,215,Costa Atlántica,Pinamar,2302
+290,549000,8,4,515,Costa Atlántica,Pinamar,1066
+291,550000,5,3,330,Costa Atlántica,Pinamar,1667
+292,600000,7,7,420,Costa Atlántica,Pinamar,1429
+293,645000,8,3,350,Costa Atlántica,Pinamar,1843
+294,760000,8,6,400,Costa Atlántica,Pinamar,1900
+295,890000,6,4,400,Costa Atlántica,Pinamar,2225
+296,1050000,6,5,497,Costa Atlántica,Pinamar,2113
+297,1250000,5,3,350,Costa Atlántica,Pinamar,3571
+298,1950000,6,5,380,Costa Atlántica,Pinamar,5132
+299,40000,4,2,70,Costa Atlántica,Villa Gesell,571
+300,45000,5,2,106,Costa Atlántica,Villa Gesell,425
+301,55000,3,2,36,Costa Atlántica,Villa Gesell,1528
+302,55000,4,1,50,Costa Atlántica,Villa Gesell,1100
+303,62000,4,1,58,Costa Atlántica,Villa Gesell,1069
+304,62000,3,1,67,Costa Atlántica,Villa Gesell,925
+305,64999,4,2,80,Costa Atlántica,Villa Gesell,812
+306,65000,4,1,61,Costa Atlántica,Villa Gesell,1066
+307,65000,3,1,86,Costa Atlántica,Villa Gesell,756
+308,67000,3,1,70,Costa Atlántica,Villa Gesell,957
+309,68000,4,1,70,Costa Atlántica,Villa Gesell,971
+310,70000,3,1,65,Costa Atlántica,Villa Gesell,1077
+311,72000,3,1,65,Costa Atlántica,Villa Gesell,1108
+312,75000,3,1,48,Costa Atlántica,Villa Gesell,1562
+313,78000,3,2,81,Costa Atlántica,Villa Gesell,963
+314,79000,3,2,124,Costa Atlántica,Villa Gesell,637
+315,82000,3,3,80,Costa Atlántica,Villa Gesell,1025
+316,89000,3,2,89,Costa Atlántica,Villa Gesell,1000
+317,95000,3,2,110,Costa Atlántica,Villa Gesell,864
+318,98000,4,2,97,Costa Atlántica,Villa Gesell,1010
+319,105000,3,1,72,Costa Atlántica,Villa Gesell,1458
+320,110000,5,4,100,Costa Atlántica,Villa Gesell,1100
+321,112000,3,2,91,Costa Atlántica,Villa Gesell,1231
+322,115000,3,2,87,Costa Atlántica,Villa Gesell,1322
+323,129000,4,2,158,Costa Atlántica,Villa Gesell,816
+324,130000,4,2,104,Costa Atlántica,Villa Gesell,1250
+325,135000,4,2,215,Costa Atlántica,Villa Gesell,628
+326,139900,5,2,133,Costa Atlántica,Villa Gesell,1052
+327,145000,5,2,118,Costa Atlántica,Villa Gesell,1229
+328,155000,5,2,164,Costa Atlántica,Villa Gesell,945
+329,165000,6,3,170,Costa Atlántica,Villa Gesell,971
+330,175000,11,5,154,Costa Atlántica,Villa Gesell,1136
+331,175000,6,2,150,Costa Atlántica,Villa Gesell,1167
+332,178900,4,2,112,Costa Atlántica,Villa Gesell,1597
+333,185000,4,3,145,Costa Atlántica,Villa Gesell,1276
+334,195000,3,2,185,Costa Atlántica,Villa Gesell,1054
+335,210000,5,4,180,Costa Atlántica,Villa Gesell,1167
+336,230000,4,2,190,Costa Atlántica,Villa Gesell,1211
+337,260000,4,2,178,Costa Atlántica,Villa Gesell,1461
+338,265000,5,3,168,Costa Atlántica,Villa Gesell,1577
+339,335000,6,5,255,Costa Atlántica,Villa Gesell,1314
+340,390000,9,8,200,Costa Atlántica,Villa Gesell,1950
+341,450000,6,3,450,Costa Atlántica,Villa Gesell,1000
+342,500000,3,2,390,Costa Atlántica,Villa Gesell,1282
+343,55000,4,1,87,Córdoba,Colon,632
+344,79000,4,2,146,Córdoba,Colon,541
+345,80000,8,3,298,Córdoba,Colon,268
+346,90000,3,2,110,Córdoba,Colon,818
+347,110000,5,1,90,Córdoba,Colon,1222
+348,110000,8,2,200,Córdoba,Colon,550
+349,120000,7,2,173,Córdoba,Colon,694
+350,120000,6,2,220,Córdoba,Colon,545
+351,135000,6,2,281,Córdoba,Colon,480
+352,140000,5,2,220,Córdoba,Colon,636
+353,150000,10,2,200,Córdoba,Colon,750
+354,150000,6,3,208,Córdoba,Colon,721
+355,150000,5,2,142,Córdoba,Colon,1056
+356,154000,8,2,156,Córdoba,Colon,987
+357,158000,4,1,200,Córdoba,Colon,790
+358,160000,2,3,199,Córdoba,Colon,804
+359,160000,6,2,142,Córdoba,Colon,1127
+360,160000,9,2,140,Córdoba,Colon,1143
+361,170000,5,2,149,Córdoba,Colon,1141
+362,172000,6,2,159,Córdoba,Colon,1082
+363,175000,3,2,175,Córdoba,Colon,1000
+364,180000,5,3,220,Córdoba,Colon,818
+365,180000,12,3,259,Córdoba,Colon,695
+366,180000,8,3,220,Córdoba,Colon,818
+367,190000,4,3,190,Córdoba,Colon,1000
+368,190000,8,3,300,Córdoba,Colon,633
+369,250000,8,2,143,Córdoba,Colon,1748
+370,290000,11,2,293,Córdoba,Colon,990
+371,291000,6,2,410,Córdoba,Colon,710
+372,300000,8,3,270,Córdoba,Colon,1111
+373,315000,7,3,308,Córdoba,Colon,1023
+374,320000,12,2,192,Córdoba,Colon,1667
+375,320000,8,3,260,Córdoba,Colon,1231
+376,320000,8,3,420,Córdoba,Colon,762
+377,340000,4,2,270,Córdoba,Colon,1259
+378,350000,7,3,170,Córdoba,Colon,2059
+379,360000,6,3,362,Córdoba,Colon,994
+380,380000,10,3,469,Córdoba,Colon,810
+381,380000,5,2,250,Córdoba,Colon,1520
+382,450000,6,3,300,Córdoba,Colon,1500
+383,450000,3,3,480,Córdoba,Colon,938
+384,460000,5,2,420,Córdoba,Colon,1095
+385,460000,6,2,260,Córdoba,Colon,1769
+386,480000,5,2,351,Córdoba,Colon,1368
+387,490000,8,3,135,Córdoba,Colon,3630
+388,649000,4,4,500,Córdoba,Colon,1298
+389,800000,8,4,680,Córdoba,Colon,1176
+390,57900,5,2,260,Córdoba,Córdoba,223
+391,75000,8,2,140,Córdoba,Córdoba,536
+392,79999,4,2,238,Córdoba,Córdoba,336
+393,88000,12,3,190,Córdoba,Córdoba,463
+394,125000,6,2,132,Córdoba,Córdoba,947
+395,129000,9,3,200,Córdoba,Córdoba,645
+396,142000,3,1,105,Córdoba,Córdoba,1352
+397,149000,6,2,258,Córdoba,Córdoba,578
+398,150000,5,2,149,Córdoba,Córdoba,1007
+399,155000,5,1,90,Córdoba,Córdoba,1722
+400,169000,5,2,179,Córdoba,Córdoba,944
+401,173900,7,3,228,Córdoba,Córdoba,763
+402,175000,5,2,266,Córdoba,Córdoba,658
+403,189000,5,1,157,Córdoba,Córdoba,1204
+404,190000,10,2,130,Córdoba,Córdoba,1462
+405,195000,8,2,350,Córdoba,Córdoba,557
+406,195000,4,2,125,Córdoba,Córdoba,1560
+407,207995,4,2,171,Córdoba,Córdoba,1216
+408,230000,5,2,188,Córdoba,Córdoba,1223
+409,230000,8,4,300,Córdoba,Córdoba,767
+410,240000,14,3,294,Córdoba,Córdoba,816
+411,250000,4,2,210,Córdoba,Córdoba,1190
+412,250000,6,3,178,Córdoba,Córdoba,1404
+413,260000,4,4,277,Córdoba,Córdoba,939
+414,275000,5,2,211,Córdoba,Córdoba,1303
+415,285000,6,3,287,Córdoba,Córdoba,993
+416,295000,5,2,170,Córdoba,Córdoba,1735
+417,320000,7,4,359,Córdoba,Córdoba,891
+418,320000,6,2,180,Córdoba,Córdoba,1778
+419,320000,3,3,223,Córdoba,Córdoba,1435
+420,325000,12,4,386,Córdoba,Córdoba,842
+421,350000,7,2,208,Córdoba,Córdoba,1683
+422,380000,6,3,300,Córdoba,Córdoba,1267
+423,390000,5,2,230,Córdoba,Córdoba,1696
+424,390000,7,3,347,Córdoba,Córdoba,1124
+425,420000,15,4,438,Córdoba,Córdoba,959
+426,476000,7,4,337,Córdoba,Córdoba,1412
+427,630000,12,4,422,Córdoba,Córdoba,1493
+428,640000,4,4,426,Córdoba,Córdoba,1502
+429,650000,12,4,450,Córdoba,Córdoba,1444
+430,670000,4,4,356,Córdoba,Córdoba,1882
+431,700000,7,3,420,Córdoba,Córdoba,1667
+432,700000,15,4,564,Córdoba,Córdoba,1241
+433,910000,4,4,562,Córdoba,Córdoba,1619
+434,930000,9,4,450,Córdoba,Córdoba,2067
+435,40000,2,1,181,Córdoba,Punilla,221
+436,46500,4,1,118,Córdoba,Punilla,394
+437,49900,6,2,130,Córdoba,Punilla,384
+438,55000,4,1,90,Córdoba,Punilla,611
+439,59999,8,1,155,Córdoba,Punilla,387
+440,63500,2,2,73,Córdoba,Punilla,870
+441,64999,3,1,687,Córdoba,Punilla,95
+442,67000,2,1,55,Córdoba,Punilla,1218
+443,69500,5,1,140,Córdoba,Punilla,496
+444,72900,4,1,68,Córdoba,Punilla,1072
+445,73500,3,1,80,Córdoba,Punilla,919
+446,74500,3,1,50,Córdoba,Punilla,1490
+447,74999,4,1,86,Córdoba,Punilla,872
+448,75000,3,1,116,Córdoba,Punilla,647
+449,80000,3,2,120,Córdoba,Punilla,667
+450,83000,2,2,127,Córdoba,Punilla,654
+451,88000,3,1,103,Córdoba,Punilla,854
+452,90000,7,2,146,Córdoba,Punilla,616
+453,94000,3,2,116,Córdoba,Punilla,810
+454,97000,6,2,124,Córdoba,Punilla,782
+455,110000,6,3,324,Córdoba,Punilla,340
+456,120000,3,2,140,Córdoba,Punilla,857
+457,124999,5,1,88,Córdoba,Punilla,1420
+458,125000,2,1,80,Córdoba,Punilla,1562
+459,125000,4,1,120,Córdoba,Punilla,1042
+460,134900,6,2,210,Córdoba,Punilla,642
+461,135000,3,2,83,Córdoba,Punilla,1627
+462,135000,5,1,145,Córdoba,Punilla,931
+463,138000,4,2,108,Córdoba,Punilla,1278
+464,140000,5,3,167,Córdoba,Punilla,838
+465,148000,3,1,116,Córdoba,Punilla,1276
+466,150000,5,2,180,Córdoba,Punilla,833
+467,163000,4,2,158,Córdoba,Punilla,1032
+468,189000,4,2,200,Córdoba,Punilla,945
+469,190000,5,3,180,Córdoba,Punilla,1056
+470,198000,3,1,130,Córdoba,Punilla,1523
+471,200000,7,2,170,Córdoba,Punilla,1176
+472,225000,6,3,289,Córdoba,Punilla,779
+473,225000,6,3,289,Córdoba,Punilla,779
+474,249000,12,5,250,Córdoba,Punilla,996
+475,255000,4,2,150,Córdoba,Punilla,1700
+476,275000,5,1,285,Córdoba,Punilla,965
+477,284000,9,3,222,Córdoba,Punilla,1279
+478,370000,8,3,295,Córdoba,Punilla,1254
+479,378000,6,3,681,Córdoba,Punilla,555
+480,429000,12,5,241,Córdoba,Punilla,1780
+481,440000,8,2,350,Córdoba,Punilla,1257
+482,45000,3,2,80,Córdoba,Santa Maria,562
+483,98000,6,2,157,Córdoba,Santa Maria,624
+484,108000,4,2,120,Córdoba,Santa Maria,900
+485,125000,4,1,193,Córdoba,Santa Maria,648
+486,159000,7,3,255,Córdoba,Santa Maria,624
+487,171000,3,2,135,Córdoba,Santa Maria,1267
+488,185000,3,3,150,Córdoba,Santa Maria,1233
+489,195000,4,3,140,Córdoba,Santa Maria,1393
+490,215000,5,2,148,Córdoba,Santa Maria,1453
+491,240000,5,3,130,Córdoba,Santa Maria,1846
+492,240000,3,2,127,Córdoba,Santa Maria,1890
+493,260000,6,2,230,Córdoba,Santa Maria,1130
+494,268000,11,2,140,Córdoba,Santa Maria,1914
+495,275000,5,2,185,Córdoba,Santa Maria,1486
+496,280000,6,4,220,Córdoba,Santa Maria,1273
+497,280000,5,2,188,Córdoba,Santa Maria,1489
+498,280000,7,2,285,Córdoba,Santa Maria,982
+499,280000,5,3,211,Córdoba,Santa Maria,1327
+500,285000,4,2,175,Córdoba,Santa Maria,1629
+501,285000,4,3,178,Córdoba,Santa Maria,1601
+502,290000,6,3,224,Córdoba,Santa Maria,1295
+503,290000,4,3,218,Córdoba,Santa Maria,1330
+504,299000,4,3,221,Córdoba,Santa Maria,1353
+505,315000,6,2,320,Córdoba,Santa Maria,984
+506,325000,3,2,255,Córdoba,Santa Maria,1275
+507,337000,6,4,280,Córdoba,Santa Maria,1204
+508,337000,6,3,280,Córdoba,Santa Maria,1204
+509,355000,9,3,258,Córdoba,Santa Maria,1376
+510,360000,5,2,370,Córdoba,Santa Maria,973
+511,370000,7,3,310,Córdoba,Santa Maria,1194
+512,380000,5,4,344,Córdoba,Santa Maria,1105
+513,449000,4,2,200,Córdoba,Santa Maria,2245
+514,475000,6,3,296,Córdoba,Santa Maria,1605
+515,480000,6,1,180,Córdoba,Santa Maria,2667
+516,590000,8,4,440,Córdoba,Santa Maria,1341
+517,600000,7,3,500,Córdoba,Santa Maria,1200
+518,790000,4,2,300,Córdoba,Santa Maria,2633
+519,72000,4,1,70,Córdoba,Villa Carlos Paz,1029
+520,80000,3,1,70,Córdoba,Villa Carlos Paz,1143
+521,80000,5,1,112,Córdoba,Villa Carlos Paz,714
+522,89000,4,2,98,Córdoba,Villa Carlos Paz,908
+523,95000,3,1,110,Córdoba,Villa Carlos Paz,864
+524,114900,6,2,176,Córdoba,Villa Carlos Paz,653
+525,115000,4,2,115,Córdoba,Villa Carlos Paz,1000
+526,120000,3,2,150,Córdoba,Villa Carlos Paz,800
+527,123000,3,1,110,Córdoba,Villa Carlos Paz,1118
+528,130000,5,2,95,Córdoba,Villa Carlos Paz,1368
+529,135000,4,1,143,Córdoba,Villa Carlos Paz,944
+530,135000,4,1,163,Córdoba,Villa Carlos Paz,828
+531,135000,6,2,110,Córdoba,Villa Carlos Paz,1227
+532,136000,3,2,146,Córdoba,Villa Carlos Paz,932
+533,138000,6,2,130,Córdoba,Villa Carlos Paz,1062
+534,140000,6,3,254,Córdoba,Villa Carlos Paz,551
+535,158000,4,1,138,Córdoba,Villa Carlos Paz,1145
+536,160000,4,2,190,Córdoba,Villa Carlos Paz,842
+537,160000,5,2,190,Córdoba,Villa Carlos Paz,842
+538,160000,7,2,175,Córdoba,Villa Carlos Paz,914
+539,165000,4,2,171,Córdoba,Villa Carlos Paz,965
+540,170000,6,3,180,Córdoba,Villa Carlos Paz,944
+541,174000,4,2,155,Córdoba,Villa Carlos Paz,1123
+542,187000,6,2,170,Córdoba,Villa Carlos Paz,1100
+543,188000,6,3,185,Córdoba,Villa Carlos Paz,1016
+544,210000,6,3,187,Córdoba,Villa Carlos Paz,1123
+545,215000,3,3,200,Córdoba,Villa Carlos Paz,1075
+546,220000,10,3,158,Córdoba,Villa Carlos Paz,1392
+547,225000,6,2,167,Córdoba,Villa Carlos Paz,1347
+548,230000,2,3,240,Córdoba,Villa Carlos Paz,958
+549,235000,14,3,390,Córdoba,Villa Carlos Paz,603
+550,240000,7,6,389,Córdoba,Villa Carlos Paz,617
+551,250000,6,3,300,Córdoba,Villa Carlos Paz,833
+552,255000,7,2,220,Córdoba,Villa Carlos Paz,1159
+553,259500,9,3,250,Córdoba,Villa Carlos Paz,1038
+554,264000,3,2,255,Córdoba,Villa Carlos Paz,1035
+555,289000,6,3,299,Córdoba,Villa Carlos Paz,967
+556,295000,4,3,379,Córdoba,Villa Carlos Paz,778
+557,300000,6,3,264,Córdoba,Villa Carlos Paz,1136
+558,330000,8,3,202,Córdoba,Villa Carlos Paz,1634
+559,350000,8,3,309,Córdoba,Villa Carlos Paz,1133
+560,639000,12,4,590,Córdoba,Villa Carlos Paz,1083
+561,650000,12,4,513,Córdoba,Villa Carlos Paz,1267
+562,950000,10,6,590,Córdoba,Villa Carlos Paz,1610
+563,1250000,7,6,629,Córdoba,Villa Carlos Paz,1987
+564,58000,3,1,80,GBA Norte,Escobar,725
+565,58000,2,1,80,GBA Norte,Escobar,725
+566,79000,2,4,710,GBA Norte,Escobar,111
+567,98000,5,2,115,GBA Norte,Escobar,852
+568,104900,5,2,130,GBA Norte,Escobar,807
+569,115000,4,2,82,GBA Norte,Escobar,1402
+570,115000,4,2,85,GBA Norte,Escobar,1353
+571,125000,3,1,120,GBA Norte,Escobar,1042
+572,150000,10,4,380,GBA Norte,Escobar,395
+573,155000,4,2,140,GBA Norte,Escobar,1107
+574,175000,4,3,180,GBA Norte,Escobar,972
+575,176000,5,2,175,GBA Norte,Escobar,1006
+576,180000,3,1,125,GBA Norte,Escobar,1440
+577,185000,4,2,138,GBA Norte,Escobar,1341
+578,190000,6,2,165,GBA Norte,Escobar,1152
+579,200000,7,6,320,GBA Norte,Escobar,625
+580,225000,4,3,140,GBA Norte,Escobar,1607
+581,227000,5,4,260,GBA Norte,Escobar,873
+582,240000,4,2,135,GBA Norte,Escobar,1778
+583,255000,5,4,235,GBA Norte,Escobar,1085
+584,270000,4,2,147,GBA Norte,Escobar,1837
+585,290000,5,4,208,GBA Norte,Escobar,1394
+586,290000,5,3,436,GBA Norte,Escobar,665
+587,298000,4,4,175,GBA Norte,Escobar,1703
+588,299000,5,3,184,GBA Norte,Escobar,1625
+589,299000,6,4,252,GBA Norte,Escobar,1187
+590,300000,5,4,160,GBA Norte,Escobar,1875
+591,337000,4,4,250,GBA Norte,Escobar,1348
+592,349000,8,6,240,GBA Norte,Escobar,1454
+593,365000,4,4,175,GBA Norte,Escobar,2086
+594,379000,5,3,200,GBA Norte,Escobar,1895
+595,379500,5,3,207,GBA Norte,Escobar,1833
+596,380000,5,3,290,GBA Norte,Escobar,1310
+597,390000,5,4,200,GBA Norte,Escobar,1950
+598,580000,6,5,450,GBA Norte,Escobar,1289
+599,619000,6,5,314,GBA Norte,Escobar,1971
+600,620000,7,5,291,GBA Norte,Escobar,2131
+601,950000,5,4,280,GBA Norte,Escobar,3393
+602,65000,4,1,80,GBA Norte,General San Martin,812
+603,80000,4,2,103,GBA Norte,General San Martin,777
+604,85000,4,2,118,GBA Norte,General San Martin,720
+605,85000,3,1,100,GBA Norte,General San Martin,850
+606,95000,4,2,135,GBA Norte,General San Martin,704
+607,96900,3,2,100,GBA Norte,General San Martin,969
+608,100000,3,1,80,GBA Norte,General San Martin,1250
+609,105000,3,2,90,GBA Norte,General San Martin,1167
+610,105000,4,1,131,GBA Norte,General San Martin,802
+611,109000,3,1,67,GBA Norte,General San Martin,1627
+612,114000,4,2,160,GBA Norte,General San Martin,712
+613,115000,4,3,70,GBA Norte,General San Martin,1643
+614,116999,3,1,80,GBA Norte,General San Martin,1462
+615,120000,3,1,116,GBA Norte,General San Martin,1034
+616,125000,3,1,95,GBA Norte,General San Martin,1316
+617,129000,7,2,159,GBA Norte,General San Martin,811
+618,135000,4,2,170,GBA Norte,General San Martin,794
+619,139000,6,2,170,GBA Norte,General San Martin,818
+620,140000,5,2,120,GBA Norte,General San Martin,1167
+621,145000,5,3,250,GBA Norte,General San Martin,580
+622,148000,4,2,102,GBA Norte,General San Martin,1451
+623,149999,3,1,103,GBA Norte,General San Martin,1456
+624,150000,8,4,230,GBA Norte,General San Martin,652
+625,155000,3,1,70,GBA Norte,General San Martin,2214
+626,160000,5,3,86,GBA Norte,General San Martin,1860
+627,170000,6,2,320,GBA Norte,General San Martin,531
+628,174900,4,2,200,GBA Norte,General San Martin,874
+629,175000,4,3,120,GBA Norte,General San Martin,1458
+630,180000,4,1,145,GBA Norte,General San Martin,1241
+631,185000,5,3,311,GBA Norte,General San Martin,595
+632,185000,3,2,163,GBA Norte,General San Martin,1135
+633,209000,4,2,183,GBA Norte,General San Martin,1142
+634,210000,4,1,120,GBA Norte,General San Martin,1750
+635,210000,4,2,103,GBA Norte,General San Martin,2039
+636,210000,7,4,300,GBA Norte,General San Martin,700
+637,210000,6,3,159,GBA Norte,General San Martin,1321
+638,240000,4,3,151,GBA Norte,General San Martin,1589
+639,260000,4,2,185,GBA Norte,General San Martin,1405
+640,289000,6,3,182,GBA Norte,General San Martin,1588
+641,290000,4,1,163,GBA Norte,General San Martin,1779
+642,293000,5,2,232,GBA Norte,General San Martin,1263
+643,314900,4,2,192,GBA Norte,General San Martin,1640
+644,350000,5,3,300,GBA Norte,General San Martin,1167
+645,400000,4,5,342,GBA Norte,General San Martin,1170
+646,450000,5,4,353,GBA Norte,General San Martin,1275
+647,55000,3,1,62,GBA Norte,Malvinas Argentina,887
+648,60000,5,1,110,GBA Norte,Malvinas Argentina,545
+649,63000,3,1,80,GBA Norte,Malvinas Argentina,788
+650,81500,5,2,112,GBA Norte,Malvinas Argentina,728
+651,82000,3,1,88,GBA Norte,Malvinas Argentina,932
+652,85000,3,1,75,GBA Norte,Malvinas Argentina,1133
+653,110000,6,3,170,GBA Norte,Malvinas Argentina,647
+654,115000,6,2,80,GBA Norte,Malvinas Argentina,1438
+655,124900,4,1,232,GBA Norte,Malvinas Argentina,538
+656,125000,4,2,133,GBA Norte,Malvinas Argentina,940
+657,129900,3,1,85,GBA Norte,Malvinas Argentina,1528
+658,130000,4,2,140,GBA Norte,Malvinas Argentina,929
+659,140000,4,2,220,GBA Norte,Malvinas Argentina,636
+660,140000,4,2,90,GBA Norte,Malvinas Argentina,1556
+661,145000,5,3,120,GBA Norte,Malvinas Argentina,1208
+662,167000,4,1,165,GBA Norte,Malvinas Argentina,1012
+663,230000,4,2,251,GBA Norte,Malvinas Argentina,916
+664,240000,6,3,200,GBA Norte,Malvinas Argentina,1200
+665,249000,4,2,146,GBA Norte,Malvinas Argentina,1705
+666,265000,7,3,422,GBA Norte,Malvinas Argentina,628
+667,270000,5,1,200,GBA Norte,Malvinas Argentina,1350
+668,290000,5,5,180,GBA Norte,Malvinas Argentina,1611
+669,290000,4,2,200,GBA Norte,Malvinas Argentina,1450
+670,290000,6,4,171,GBA Norte,Malvinas Argentina,1696
+671,299000,5,3,262,GBA Norte,Malvinas Argentina,1141
+672,299000,6,3,240,GBA Norte,Malvinas Argentina,1246
+673,320000,4,2,189,GBA Norte,Malvinas Argentina,1693
+674,320000,4,3,193,GBA Norte,Malvinas Argentina,1658
+675,320000,5,4,240,GBA Norte,Malvinas Argentina,1333
+676,355000,4,2,280,GBA Norte,Malvinas Argentina,1268
+677,430000,10,4,200,GBA Norte,Malvinas Argentina,2150
+678,450000,5,4,290,GBA Norte,Malvinas Argentina,1552
+679,450000,6,5,290,GBA Norte,Malvinas Argentina,1552
+680,520000,6,4,301,GBA Norte,Malvinas Argentina,1728
+681,795000,6,3,355,GBA Norte,Malvinas Argentina,2239
+682,850000,7,3,486,GBA Norte,Malvinas Argentina,1749
+683,1350000,8,4,550,GBA Norte,Malvinas Argentina,2455
+684,1400000,9,6,483,GBA Norte,Malvinas Argentina,2899
+685,2500000,6,6,900,GBA Norte,Malvinas Argentina,2778
+686,2500000,10,6,950,GBA Norte,Malvinas Argentina,2632
+687,49000,4,1,80,GBA Norte,Pilar,612
+688,75000,4,1,60,GBA Norte,Pilar,1250
+689,89000,5,3,120,GBA Norte,Pilar,742
+690,125000,4,2,175,GBA Norte,Pilar,714
+691,130000,3,2,66,GBA Norte,Pilar,1970
+692,149000,4,1,113,GBA Norte,Pilar,1319
+693,150000,4,2,113,GBA Norte,Pilar,1327
+694,150000,4,3,135,GBA Norte,Pilar,1111
+695,153000,3,3,107,GBA Norte,Pilar,1430
+696,158000,3,1,76,GBA Norte,Pilar,2079
+697,165000,4,3,127,GBA Norte,Pilar,1299
+698,175000,4,2,100,GBA Norte,Pilar,1750
+699,180000,6,2,116,GBA Norte,Pilar,1552
+700,180000,2,1,53,GBA Norte,Pilar,3396
+701,195000,4,3,150,GBA Norte,Pilar,1300
+702,198000,4,4,327,GBA Norte,Pilar,606
+703,198000,4,3,160,GBA Norte,Pilar,1238
+704,199950,4,2,175,GBA Norte,Pilar,1143
+705,205000,3,3,146,GBA Norte,Pilar,1404
+706,223000,4,3,162,GBA Norte,Pilar,1377
+707,225000,5,3,145,GBA Norte,Pilar,1552
+708,238000,4,3,130,GBA Norte,Pilar,1831
+709,265000,6,3,280,GBA Norte,Pilar,946
+710,279000,5,4,193,GBA Norte,Pilar,1446
+711,290000,7,4,314,GBA Norte,Pilar,924
+712,290000,4,3,200,GBA Norte,Pilar,1450
+713,290000,5,4,226,GBA Norte,Pilar,1283
+714,290000,2,2,154,GBA Norte,Pilar,1883
+715,340000,5,4,200,GBA Norte,Pilar,1700
+716,345000,4,3,187,GBA Norte,Pilar,1845
+717,350000,7,4,217,GBA Norte,Pilar,1613
+718,430000,4,2,205,GBA Norte,Pilar,2098
+719,490000,4,3,178,GBA Norte,Pilar,2753
+720,505000,5,6,315,GBA Norte,Pilar,1603
+721,595000,5,4,257,GBA Norte,Pilar,2315
+722,680000,4,3,260,GBA Norte,Pilar,2615
+723,690000,6,5,288,GBA Norte,Pilar,2396
+724,760000,7,6,600,GBA Norte,Pilar,1267
+725,1050000,7,3,471,GBA Norte,Pilar,2229
+726,2400000,10,6,532,GBA Norte,Pilar,4511
+727,45000,3,1,58,GBA Norte,San Fernando,776
+728,119000,3,2,144,GBA Norte,San Fernando,826
+729,120000,3,2,84,GBA Norte,San Fernando,1429
+730,125000,3,1,104,GBA Norte,San Fernando,1202
+731,138000,5,2,140,GBA Norte,San Fernando,986
+732,140000,3,2,90,GBA Norte,San Fernando,1556
+733,141000,3,1,90,GBA Norte,San Fernando,1567
+734,155000,4,1,106,GBA Norte,San Fernando,1462
+735,155000,4,2,109,GBA Norte,San Fernando,1422
+736,165000,4,1,120,GBA Norte,San Fernando,1375
+737,180000,6,3,189,GBA Norte,San Fernando,952
+738,190000,5,2,144,GBA Norte,San Fernando,1319
+739,200000,4,1,116,GBA Norte,San Fernando,1724
+740,205000,5,2,155,GBA Norte,San Fernando,1323
+741,210000,3,2,169,GBA Norte,San Fernando,1243
+742,215000,4,2,114,GBA Norte,San Fernando,1886
+743,220000,4,2,176,GBA Norte,San Fernando,1250
+744,229990,4,1,114,GBA Norte,San Fernando,2017
+745,240000,4,2,144,GBA Norte,San Fernando,1667
+746,240000,4,1,180,GBA Norte,San Fernando,1333
+747,250000,4,1,200,GBA Norte,San Fernando,1250
+748,255000,5,1,161,GBA Norte,San Fernando,1584
+749,260000,5,2,220,GBA Norte,San Fernando,1182
+750,265000,4,3,137,GBA Norte,San Fernando,1934
+751,270000,4,2,139,GBA Norte,San Fernando,1942
+752,275000,5,3,203,GBA Norte,San Fernando,1355
+753,280000,4,2,177,GBA Norte,San Fernando,1582
+754,285000,5,3,249,GBA Norte,San Fernando,1145
+755,290000,8,4,200,GBA Norte,San Fernando,1450
+756,290000,5,2,120,GBA Norte,San Fernando,2417
+757,295000,6,3,178,GBA Norte,San Fernando,1657
+758,295000,5,1,201,GBA Norte,San Fernando,1468
+759,320000,5,2,128,GBA Norte,San Fernando,2500
+760,325000,3,3,197,GBA Norte,San Fernando,1650
+761,370000,5,3,303,GBA Norte,San Fernando,1221
+762,395000,6,3,250,GBA Norte,San Fernando,1580
+763,420000,6,3,168,GBA Norte,San Fernando,2500
+764,465000,5,5,238,GBA Norte,San Fernando,1954
+765,480000,6,2,200,GBA Norte,San Fernando,2400
+766,650000,5,3,181,GBA Norte,San Fernando,3591
+767,680000,10,5,500,GBA Norte,San Fernando,1360
+768,1100000,8,4,416,GBA Norte,San Fernando,2644
+769,1149000,5,2,455,GBA Norte,San Fernando,2525
+770,1149000,5,3,457,GBA Norte,San Fernando,2514
+771,1180000,6,4,407,GBA Norte,San Fernando,2899
+772,1400000,6,4,491,GBA Norte,San Fernando,2851
+773,100000,4,2,220,GBA Norte,San Isidro,455
+774,105000,3,1,80,GBA Norte,San Isidro,1312
+775,140000,3,1,105,GBA Norte,San Isidro,1333
+776,149900,5,2,118,GBA Norte,San Isidro,1270
+777,155000,3,1,87,GBA Norte,San Isidro,1782
+778,170000,8,2,131,GBA Norte,San Isidro,1298
+779,170000,4,2,220,GBA Norte,San Isidro,773
+780,180000,4,2,130,GBA Norte,San Isidro,1385
+781,180000,4,2,140,GBA Norte,San Isidro,1286
+782,189000,3,2,116,GBA Norte,San Isidro,1629
+783,199000,4,2,150,GBA Norte,San Isidro,1327
+784,200000,4,1,64,GBA Norte,San Isidro,3125
+785,205000,6,3,216,GBA Norte,San Isidro,949
+786,205000,5,2,180,GBA Norte,San Isidro,1139
+787,235000,3,2,97,GBA Norte,San Isidro,2423
+788,255000,7,2,130,GBA Norte,San Isidro,1962
+789,270000,4,2,174,GBA Norte,San Isidro,1552
+790,295000,4,1,135,GBA Norte,San Isidro,2185
+791,330000,7,4,242,GBA Norte,San Isidro,1364
+792,350000,3,1,165,GBA Norte,San Isidro,2121
+793,350000,6,2,209,GBA Norte,San Isidro,1675
+794,379000,5,5,260,GBA Norte,San Isidro,1458
+795,380000,5,3,157,GBA Norte,San Isidro,2420
+796,380000,6,3,240,GBA Norte,San Isidro,1583
+797,399000,6,2,182,GBA Norte,San Isidro,2192
+798,430000,4,2,221,GBA Norte,San Isidro,1946
+799,450000,8,5,277,GBA Norte,San Isidro,1625
+800,465000,5,3,262,GBA Norte,San Isidro,1775
+801,478000,6,5,280,GBA Norte,San Isidro,1707
+802,507000,4,2,175,GBA Norte,San Isidro,2897
+803,530000,5,3,332,GBA Norte,San Isidro,1596
+804,550000,5,2,207,GBA Norte,San Isidro,2657
+805,610000,5,4,289,GBA Norte,San Isidro,2111
+806,640000,7,3,283,GBA Norte,San Isidro,2261
+807,700000,7,5,361,GBA Norte,San Isidro,1939
+808,720000,5,4,515,GBA Norte,San Isidro,1398
+809,765000,6,3,240,GBA Norte,San Isidro,3188
+810,790000,12,6,350,GBA Norte,San Isidro,2257
+811,830000,7,3,340,GBA Norte,San Isidro,2441
+812,890000,6,4,385,GBA Norte,San Isidro,2312
+813,950000,6,6,440,GBA Norte,San Isidro,2159
+814,980000,6,7,428,GBA Norte,San Isidro,2290
+815,990000,9,3,381,GBA Norte,San Isidro,2598
+816,1260000,5,6,660,GBA Norte,San Isidro,1909
+817,1350000,5,3,600,GBA Norte,San Isidro,2250
+818,56000,3,1,70,GBA Norte,San Miguel,800
+819,77000,3,1,65,GBA Norte,San Miguel,1185
+820,78000,2,3,380,GBA Norte,San Miguel,205
+821,79900,4,2,75,GBA Norte,San Miguel,1065
+822,82000,6,2,140,GBA Norte,San Miguel,586
+823,95000,5,3,140,GBA Norte,San Miguel,679
+824,108000,3,1,111,GBA Norte,San Miguel,973
+825,110000,5,2,202,GBA Norte,San Miguel,545
+826,116000,3,2,73,GBA Norte,San Miguel,1589
+827,120000,5,2,130,GBA Norte,San Miguel,923
+828,130000,6,2,120,GBA Norte,San Miguel,1083
+829,135000,4,1,135,GBA Norte,San Miguel,1000
+830,138000,4,1,105,GBA Norte,San Miguel,1314
+831,145000,4,2,160,GBA Norte,San Miguel,906
+832,149700,3,1,139,GBA Norte,San Miguel,1077
+833,159000,4,1,125,GBA Norte,San Miguel,1272
+834,165000,5,3,160,GBA Norte,San Miguel,1031
+835,175000,3,3,206,GBA Norte,San Miguel,850
+836,180000,4,3,120,GBA Norte,San Miguel,1500
+837,187000,3,1,160,GBA Norte,San Miguel,1169
+838,218000,7,3,209,GBA Norte,San Miguel,1043
+839,240000,7,4,205,GBA Norte,San Miguel,1171
+840,259000,4,2,170,GBA Norte,San Miguel,1524
+841,280000,6,4,220,GBA Norte,San Miguel,1273
+842,282000,3,1,101,GBA Norte,San Miguel,2792
+843,290000,3,2,304,GBA Norte,San Miguel,954
+844,290000,4,2,450,GBA Norte,San Miguel,644
+845,290000,4,3,192,GBA Norte,San Miguel,1510
+846,295000,5,3,326,GBA Norte,San Miguel,905
+847,299000,6,3,230,GBA Norte,San Miguel,1300
+848,315000,6,3,191,GBA Norte,San Miguel,1649
+849,320000,4,2,181,GBA Norte,San Miguel,1768
+850,326000,3,2,183,GBA Norte,San Miguel,1781
+851,330000,6,3,250,GBA Norte,San Miguel,1320
+852,340000,4,3,300,GBA Norte,San Miguel,1133
+853,396000,7,3,324,GBA Norte,San Miguel,1222
+854,399000,7,4,264,GBA Norte,San Miguel,1511
+855,435000,4,3,217,GBA Norte,San Miguel,2005
+856,470000,5,4,270,GBA Norte,San Miguel,1741
+857,485000,4,3,300,GBA Norte,San Miguel,1617
+858,730000,8,4,334,GBA Norte,San Miguel,2186
+859,750000,5,4,400,GBA Norte,San Miguel,1875
+860,950000,6,3,360,GBA Norte,San Miguel,2639
+861,1350000,6,5,650,GBA Norte,San Miguel,2077
+862,1700000,6,6,600,GBA Norte,San Miguel,2833
+863,44000,3,1,55,GBA Norte,Tigre,800
+864,48000,2,1,55,GBA Norte,Tigre,873
+865,65000,3,1,72,GBA Norte,Tigre,903
+866,79000,2,2,85,GBA Norte,Tigre,929
+867,92000,3,1,55,GBA Norte,Tigre,1673
+868,95000,3,1,74,GBA Norte,Tigre,1284
+869,110000,3,1,75,GBA Norte,Tigre,1467
+870,115000,4,1,100,GBA Norte,Tigre,1150
+871,135000,6,2,200,GBA Norte,Tigre,675
+872,139000,3,2,85,GBA Norte,Tigre,1635
+873,180000,4,2,180,GBA Norte,Tigre,1000
+874,180000,4,2,125,GBA Norte,Tigre,1440
+875,185000,2,1,60,GBA Norte,Tigre,3083
+876,243000,4,2,105,GBA Norte,Tigre,2314
+877,250000,4,2,133,GBA Norte,Tigre,1880
+878,280000,4,3,500,GBA Norte,Tigre,560
+879,398000,6,4,280,GBA Norte,Tigre,1421
+880,430000,6,3,251,GBA Norte,Tigre,1713
+881,459000,6,3,192,GBA Norte,Tigre,2391
+882,485000,6,4,226,GBA Norte,Tigre,2146
+883,495000,5,3,240,GBA Norte,Tigre,2062
+884,520000,5,4,267,GBA Norte,Tigre,1948
+885,550000,5,3,246,GBA Norte,Tigre,2236
+886,560000,7,6,300,GBA Norte,Tigre,1867
+887,620000,10,5,350,GBA Norte,Tigre,1771
+888,655000,8,5,369,GBA Norte,Tigre,1775
+889,670000,6,5,302,GBA Norte,Tigre,2219
+890,680000,7,5,308,GBA Norte,Tigre,2208
+891,680000,7,5,285,GBA Norte,Tigre,2386
+892,690000,5,6,420,GBA Norte,Tigre,1643
+893,699000,8,6,300,GBA Norte,Tigre,2330
+894,830000,7,3,320,GBA Norte,Tigre,2594
+895,850000,6,5,444,GBA Norte,Tigre,1914
+896,880000,4,4,420,GBA Norte,Tigre,2095
+897,1140000,11,5,320,GBA Norte,Tigre,3562
+898,1780000,8,7,540,GBA Norte,Tigre,3296
+899,1850000,5,7,576,GBA Norte,Tigre,3212
+900,1900000,4,5,458,GBA Norte,Tigre,4148
+901,2200000,6,6,480,GBA Norte,Tigre,4583
+902,2500000,7,5,540,GBA Norte,Tigre,4630
+903,2500000,7,6,550,GBA Norte,Tigre,4545
+904,3500000,7,6,550,GBA Norte,Tigre,6364
+905,110000,4,1,55,GBA Norte,Vicente Lopez,2000
+906,137000,3,1,71,GBA Norte,Vicente Lopez,1930
+907,158000,3,1,130,GBA Norte,Vicente Lopez,1215
+908,179000,4,2,119,GBA Norte,Vicente Lopez,1504
+909,198000,4,2,97,GBA Norte,Vicente Lopez,2041
+910,205000,5,2,160,GBA Norte,Vicente Lopez,1281
+911,220000,3,1,87,GBA Norte,Vicente Lopez,2529
+912,265000,7,3,363,GBA Norte,Vicente Lopez,730
+913,280000,6,1,130,GBA Norte,Vicente Lopez,2154
+914,285000,5,2,150,GBA Norte,Vicente Lopez,1900
+915,285000,5,2,218,GBA Norte,Vicente Lopez,1307
+916,285000,8,2,218,GBA Norte,Vicente Lopez,1307
+917,295000,6,3,168,GBA Norte,Vicente Lopez,1756
+918,298000,4,1,163,GBA Norte,Vicente Lopez,1828
+919,300000,5,2,140,GBA Norte,Vicente Lopez,2143
+920,310000,4,2,105,GBA Norte,Vicente Lopez,2952
+921,318000,3,1,177,GBA Norte,Vicente Lopez,1797
+922,335000,5,3,171,GBA Norte,Vicente Lopez,1959
+923,335000,5,2,200,GBA Norte,Vicente Lopez,1675
+924,350000,6,2,148,GBA Norte,Vicente Lopez,2365
+925,355000,4,2,233,GBA Norte,Vicente Lopez,1524
+926,370000,4,2,178,GBA Norte,Vicente Lopez,2079
+927,379000,5,4,254,GBA Norte,Vicente Lopez,1492
+928,380000,5,2,150,GBA Norte,Vicente Lopez,2533
+929,420000,4,2,169,GBA Norte,Vicente Lopez,2485
+930,425000,6,3,280,GBA Norte,Vicente Lopez,1518
+931,430000,5,2,150,GBA Norte,Vicente Lopez,2867
+932,435000,6,4,291,GBA Norte,Vicente Lopez,1495
+933,440000,5,3,288,GBA Norte,Vicente Lopez,1528
+934,470000,6,3,176,GBA Norte,Vicente Lopez,2670
+935,480000,6,1,230,GBA Norte,Vicente Lopez,2087
+936,480000,6,6,297,GBA Norte,Vicente Lopez,1616
+937,494000,5,3,290,GBA Norte,Vicente Lopez,1703
+938,495000,6,4,180,GBA Norte,Vicente Lopez,2750
+939,495000,4,1,175,GBA Norte,Vicente Lopez,2829
+940,510000,5,2,227,GBA Norte,Vicente Lopez,2247
+941,550000,6,4,260,GBA Norte,Vicente Lopez,2115
+942,569000,7,5,250,GBA Norte,Vicente Lopez,2276
+943,610000,5,2,200,GBA Norte,Vicente Lopez,3050
+944,695000,5,2,430,GBA Norte,Vicente Lopez,1616
+945,711000,5,3,270,GBA Norte,Vicente Lopez,2633
+946,730000,6,4,400,GBA Norte,Vicente Lopez,1825
+947,1150000,6,2,307,GBA Norte,Vicente Lopez,3746
+948,1600000,9,6,486,GBA Norte,Vicente Lopez,3292
+949,43000,3,1,100,GBA Oeste,Castelar,430
+950,59000,2,1,50,GBA Oeste,Castelar,1180
+951,60000,3,1,84,GBA Oeste,Castelar,714
+952,70000,3,1,66,GBA Oeste,Castelar,1061
+953,77000,3,1,73,GBA Oeste,Castelar,1055
+954,80000,3,1,65,GBA Oeste,Castelar,1231
+955,92000,4,1,127,GBA Oeste,Castelar,724
+956,95000,4,1,80,GBA Oeste,Castelar,1188
+957,95000,3,1,80,GBA Oeste,Castelar,1188
+958,97000,5,2,138,GBA Oeste,Castelar,703
+959,99999,4,1,94,GBA Oeste,Castelar,1064
+960,125000,4,1,236,GBA Oeste,Castelar,530
+961,149999,5,2,132,GBA Oeste,Castelar,1136
+962,155000,5,2,122,GBA Oeste,Castelar,1270
+963,168000,4,2,160,GBA Oeste,Castelar,1050
+964,169000,4,3,150,GBA Oeste,Castelar,1127
+965,178000,4,3,180,GBA Oeste,Castelar,989
+966,179000,5,2,160,GBA Oeste,Castelar,1119
+967,180000,4,1,135,GBA Oeste,Castelar,1333
+968,198000,4,1,120,GBA Oeste,Castelar,1650
+969,200000,4,2,182,GBA Oeste,Castelar,1099
+970,200000,5,3,195,GBA Oeste,Castelar,1026
+971,205000,5,4,120,GBA Oeste,Castelar,1708
+972,240000,4,3,178,GBA Oeste,Castelar,1348
+973,249900,5,1,324,GBA Oeste,Castelar,771
+974,250000,4,2,150,GBA Oeste,Castelar,1667
+975,250000,5,3,219,GBA Oeste,Castelar,1142
+976,250000,4,2,145,GBA Oeste,Castelar,1724
+977,265000,4,2,180,GBA Oeste,Castelar,1472
+978,265000,4,1,160,GBA Oeste,Castelar,1656
+979,280000,4,1,276,GBA Oeste,Castelar,1014
+980,280000,5,3,240,GBA Oeste,Castelar,1167
+981,299000,4,4,179,GBA Oeste,Castelar,1670
+982,300000,4,3,200,GBA Oeste,Castelar,1500
+983,315000,5,4,285,GBA Oeste,Castelar,1105
+984,320000,4,3,200,GBA Oeste,Castelar,1600
+985,398000,7,3,380,GBA Oeste,Castelar,1047
+986,420000,7,2,350,GBA Oeste,Castelar,1200
+987,420000,5,3,232,GBA Oeste,Castelar,1810
+988,1200000,6,5,386,GBA Oeste,Castelar,3109
+989,73900,3,1,59,GBA Oeste,Hurlingham,1253
+990,75000,4,1,95,GBA Oeste,Hurlingham,789
+991,79990,4,2,112,GBA Oeste,Hurlingham,714
+992,80000,5,1,88,GBA Oeste,Hurlingham,909
+993,83500,4,1,100,GBA Oeste,Hurlingham,835
+994,89900,5,1,70,GBA Oeste,Hurlingham,1284
+995,99999,4,2,273,GBA Oeste,Hurlingham,366
+996,105000,4,1,150,GBA Oeste,Hurlingham,700
+997,110000,3,1,82,GBA Oeste,Hurlingham,1341
+998,124900,4,2,196,GBA Oeste,Hurlingham,637
+999,125000,4,2,150,GBA Oeste,Hurlingham,833
+1000,129000,4,2,95,GBA Oeste,Hurlingham,1358
+1001,130000,4,1,220,GBA Oeste,Hurlingham,591
+1002,135000,8,2,141,GBA Oeste,Hurlingham,957
+1003,145000,5,1,129,GBA Oeste,Hurlingham,1124
+1004,145000,4,2,230,GBA Oeste,Hurlingham,630
+1005,149000,3,1,164,GBA Oeste,Hurlingham,909
+1006,155000,4,2,95,GBA Oeste,Hurlingham,1632
+1007,159999,5,2,230,GBA Oeste,Hurlingham,696
+1008,165000,6,4,255,GBA Oeste,Hurlingham,647
+1009,169000,3,3,127,GBA Oeste,Hurlingham,1331
+1010,180000,4,3,169,GBA Oeste,Hurlingham,1065
+1011,190000,5,3,200,GBA Oeste,Hurlingham,950
+1012,190000,6,3,150,GBA Oeste,Hurlingham,1267
+1013,199000,4,3,253,GBA Oeste,Hurlingham,787
+1014,199500,4,2,130,GBA Oeste,Hurlingham,1535
+1015,199500,4,2,130,GBA Oeste,Hurlingham,1535
+1016,210000,4,3,123,GBA Oeste,Hurlingham,1707
+1017,210000,5,3,234,GBA Oeste,Hurlingham,897
+1018,215000,4,2,170,GBA Oeste,Hurlingham,1265
+1019,240000,4,2,161,GBA Oeste,Hurlingham,1491
+1020,250000,5,2,132,GBA Oeste,Hurlingham,1894
+1021,260000,5,3,267,GBA Oeste,Hurlingham,974
+1022,280000,6,4,500,GBA Oeste,Hurlingham,560
+1023,290000,5,3,250,GBA Oeste,Hurlingham,1160
+1024,300000,5,5,639,GBA Oeste,Hurlingham,469
+1025,300000,5,3,268,GBA Oeste,Hurlingham,1119
+1026,320000,6,4,300,GBA Oeste,Hurlingham,1067
+1027,329000,6,2,204,GBA Oeste,Hurlingham,1613
+1028,330000,6,3,193,GBA Oeste,Hurlingham,1710
+1029,350000,7,4,280,GBA Oeste,Hurlingham,1250
+1030,450000,5,4,386,GBA Oeste,Hurlingham,1166
+1031,485000,6,5,324,GBA Oeste,Hurlingham,1497
+1032,65000,3,1,100,GBA Oeste,Ituzaingo,650
+1033,75000,3,1,90,GBA Oeste,Ituzaingo,833
+1034,95000,4,2,148,GBA Oeste,Ituzaingo,642
+1035,109000,5,2,90,GBA Oeste,Ituzaingo,1211
+1036,109000,4,1,110,GBA Oeste,Ituzaingo,991
+1037,114900,4,1,184,GBA Oeste,Ituzaingo,624
+1038,144900,4,2,120,GBA Oeste,Ituzaingo,1208
+1039,180000,5,3,132,GBA Oeste,Ituzaingo,1364
+1040,180000,4,1,150,GBA Oeste,Ituzaingo,1200
+1041,215000,4,3,115,GBA Oeste,Ituzaingo,1870
+1042,215000,4,3,180,GBA Oeste,Ituzaingo,1194
+1043,220000,4,3,141,GBA Oeste,Ituzaingo,1560
+1044,230000,4,2,200,GBA Oeste,Ituzaingo,1150
+1045,240000,5,4,185,GBA Oeste,Ituzaingo,1297
+1046,240000,4,3,135,GBA Oeste,Ituzaingo,1778
+1047,245000,6,2,170,GBA Oeste,Ituzaingo,1441
+1048,250000,2,3,120,GBA Oeste,Ituzaingo,2083
+1049,280000,4,3,250,GBA Oeste,Ituzaingo,1120
+1050,290000,4,2,163,GBA Oeste,Ituzaingo,1779
+1051,340000,4,2,250,GBA Oeste,Ituzaingo,1360
+1052,349900,4,4,197,GBA Oeste,Ituzaingo,1776
+1053,369000,5,3,200,GBA Oeste,Ituzaingo,1845
+1054,370000,3,1,220,GBA Oeste,Ituzaingo,1682
+1055,395000,4,4,230,GBA Oeste,Ituzaingo,1717
+1056,410000,4,4,229,GBA Oeste,Ituzaingo,1790
+1057,420000,3,4,270,GBA Oeste,Ituzaingo,1556
+1058,430000,5,3,270,GBA Oeste,Ituzaingo,1593
+1059,440000,4,2,179,GBA Oeste,Ituzaingo,2458
+1060,470000,5,5,313,GBA Oeste,Ituzaingo,1502
+1061,515000,4,2,266,GBA Oeste,Ituzaingo,1936
+1062,580000,6,4,360,GBA Oeste,Ituzaingo,1611
+1063,600000,6,5,300,GBA Oeste,Ituzaingo,2000
+1064,791000,7,7,489,GBA Oeste,Ituzaingo,1618
+1065,850000,15,4,300,GBA Oeste,Ituzaingo,2833
+1066,880000,7,3,427,GBA Oeste,Ituzaingo,2061
+1067,900000,5,6,600,GBA Oeste,Ituzaingo,1500
+1068,79000,3,1,49,GBA Oeste,La Matanza,1612
+1069,80000,2,3,60,GBA Oeste,La Matanza,1333
+1070,81000,3,1,55,GBA Oeste,La Matanza,1473
+1071,87500,6,2,213,GBA Oeste,La Matanza,411
+1072,89000,4,2,95,GBA Oeste,La Matanza,937
+1073,90000,3,2,100,GBA Oeste,La Matanza,900
+1074,95000,5,3,230,GBA Oeste,La Matanza,413
+1075,98000,3,1,103,GBA Oeste,La Matanza,951
+1076,99000,4,2,110,GBA Oeste,La Matanza,900
+1077,99000,5,2,260,GBA Oeste,La Matanza,381
+1078,100000,5,3,130,GBA Oeste,La Matanza,769
+1079,110000,5,1,134,GBA Oeste,La Matanza,821
+1080,114900,5,1,65,GBA Oeste,La Matanza,1768
+1081,115000,5,1,160,GBA Oeste,La Matanza,719
+1082,120000,3,2,115,GBA Oeste,La Matanza,1043
+1083,127000,5,2,187,GBA Oeste,La Matanza,679
+1084,130000,3,2,83,GBA Oeste,La Matanza,1566
+1085,130000,4,2,120,GBA Oeste,La Matanza,1083
+1086,130000,4,2,178,GBA Oeste,La Matanza,730
+1087,135000,4,2,160,GBA Oeste,La Matanza,844
+1088,135000,8,3,290,GBA Oeste,La Matanza,466
+1089,140000,2,1,88,GBA Oeste,La Matanza,1591
+1090,149000,4,2,103,GBA Oeste,La Matanza,1447
+1091,160000,5,2,140,GBA Oeste,La Matanza,1143
+1092,165000,6,2,279,GBA Oeste,La Matanza,591
+1093,169000,3,2,120,GBA Oeste,La Matanza,1408
+1094,170000,5,3,150,GBA Oeste,La Matanza,1133
+1095,170000,3,2,100,GBA Oeste,La Matanza,1700
+1096,170000,7,2,340,GBA Oeste,La Matanza,500
+1097,179000,6,5,174,GBA Oeste,La Matanza,1029
+1098,185000,3,1,90,GBA Oeste,La Matanza,2056
+1099,190000,5,3,120,GBA Oeste,La Matanza,1583
+1100,190000,3,1,200,GBA Oeste,La Matanza,950
+1101,195000,5,3,190,GBA Oeste,La Matanza,1026
+1102,198000,4,2,231,GBA Oeste,La Matanza,857
+1103,199900,4,2,190,GBA Oeste,La Matanza,1052
+1104,200000,5,4,215,GBA Oeste,La Matanza,930
+1105,210000,2,1,70,GBA Oeste,La Matanza,3000
+1106,220000,4,2,120,GBA Oeste,La Matanza,1833
+1107,230000,6,3,225,GBA Oeste,La Matanza,1022
+1108,265000,5,2,200,GBA Oeste,La Matanza,1325
+1109,269000,6,4,117,GBA Oeste,La Matanza,2299
+1110,270000,6,3,266,GBA Oeste,La Matanza,1015
+1111,450000,7,5,464,GBA Oeste,La Matanza,970
+1112,520000,3,2,590,GBA Oeste,La Matanza,881
+1113,900000,6,3,261,GBA Oeste,La Matanza,3448
+1114,22000,3,1,45,GBA Oeste,Merlo,489
+1115,37500,3,1,150,GBA Oeste,Merlo,250
+1116,43000,4,1,80,GBA Oeste,Merlo,538
+1117,44000,4,1,80,GBA Oeste,Merlo,550
+1118,56900,4,2,120,GBA Oeste,Merlo,474
+1119,59999,3,1,102,GBA Oeste,Merlo,588
+1120,65000,2,1,58,GBA Oeste,Merlo,1121
+1121,69500,3,1,229,GBA Oeste,Merlo,303
+1122,70000,6,2,136,GBA Oeste,Merlo,515
+1123,75000,4,1,130,GBA Oeste,Merlo,577
+1124,75000,3,1,640,GBA Oeste,Merlo,117
+1125,78000,3,1,115,GBA Oeste,Merlo,678
+1126,78000,5,2,130,GBA Oeste,Merlo,600
+1127,79900,4,1,200,GBA Oeste,Merlo,400
+1128,80000,3,1,85,GBA Oeste,Merlo,941
+1129,80000,6,4,200,GBA Oeste,Merlo,400
+1130,81000,5,2,680,GBA Oeste,Merlo,119
+1131,85000,3,1,140,GBA Oeste,Merlo,607
+1132,93000,6,2,214,GBA Oeste,Merlo,435
+1133,105000,4,1,116,GBA Oeste,Merlo,905
+1134,120000,3,1,130,GBA Oeste,Merlo,923
+1135,125000,3,1,110,GBA Oeste,Merlo,1136
+1136,130000,6,2,172,GBA Oeste,Merlo,756
+1137,130000,3,1,100,GBA Oeste,Merlo,1300
+1138,133500,5,1,220,GBA Oeste,Merlo,607
+1139,135000,4,1,76,GBA Oeste,Merlo,1776
+1140,143000,6,4,300,GBA Oeste,Merlo,477
+1141,153000,5,3,130,GBA Oeste,Merlo,1177
+1142,155000,5,2,250,GBA Oeste,Merlo,620
+1143,165000,4,1,90,GBA Oeste,Merlo,1833
+1144,165000,3,2,170,GBA Oeste,Merlo,971
+1145,190000,4,3,230,GBA Oeste,Merlo,826
+1146,197000,4,2,118,GBA Oeste,Merlo,1669
+1147,200000,4,2,120,GBA Oeste,Merlo,1667
+1148,210000,7,4,300,GBA Oeste,Merlo,700
+1149,215000,3,2,130,GBA Oeste,Merlo,1654
+1150,216000,5,4,641,GBA Oeste,Merlo,337
+1151,220000,4,3,200,GBA Oeste,Merlo,1100
+1152,225000,4,2,200,GBA Oeste,Merlo,1125
+1153,230000,4,2,134,GBA Oeste,Merlo,1716
+1154,230000,5,4,250,GBA Oeste,Merlo,920
+1155,250000,5,3,178,GBA Oeste,Merlo,1404
+1156,260000,4,3,270,GBA Oeste,Merlo,963
+1157,300000,5,4,153,GBA Oeste,Merlo,1961
+1158,820000,4,3,330,GBA Oeste,Merlo,2485
+1159,33000,3,2,300,GBA Oeste,Moreno,110
+1160,35000,2,1,65,GBA Oeste,Moreno,538
+1161,45000,3,1,59,GBA Oeste,Moreno,763
+1162,46000,3,1,64,GBA Oeste,Moreno,719
+1163,48000,4,1,412,GBA Oeste,Moreno,117
+1164,69000,4,1,102,GBA Oeste,Moreno,676
+1165,71500,3,1,75,GBA Oeste,Moreno,953
+1166,85000,4,2,160,GBA Oeste,Moreno,531
+1167,89999,4,2,74,GBA Oeste,Moreno,1216
+1168,99950,6,3,190,GBA Oeste,Moreno,526
+1169,105000,4,2,128,GBA Oeste,Moreno,820
+1170,110000,4,2,130,GBA Oeste,Moreno,846
+1171,120000,3,2,70,GBA Oeste,Moreno,1714
+1172,120000,6,2,350,GBA Oeste,Moreno,343
+1173,149000,2,2,85,GBA Oeste,Moreno,1753
+1174,157500,4,3,135,GBA Oeste,Moreno,1167
+1175,160000,5,2,159,GBA Oeste,Moreno,1006
+1176,180000,3,1,88,GBA Oeste,Moreno,2045
+1177,185000,4,2,120,GBA Oeste,Moreno,1542
+1178,200000,5,3,145,GBA Oeste,Moreno,1379
+1179,245000,5,2,158,GBA Oeste,Moreno,1551
+1180,258000,4,2,185,GBA Oeste,Moreno,1395
+1181,260000,6,4,180,GBA Oeste,Moreno,1444
+1182,270000,5,2,193,GBA Oeste,Moreno,1399
+1183,320000,5,4,260,GBA Oeste,Moreno,1231
+1184,340000,6,4,390,GBA Oeste,Moreno,872
+1185,350000,5,3,208,GBA Oeste,Moreno,1683
+1186,420000,5,3,294,GBA Oeste,Moreno,1429
+1187,440000,6,3,380,GBA Oeste,Moreno,1158
+1188,540000,6,4,900,GBA Oeste,Moreno,600
+1189,580000,4,4,320,GBA Oeste,Moreno,1812
+1190,580000,7,6,450,GBA Oeste,Moreno,1289
+1191,650000,10,4,550,GBA Oeste,Moreno,1182
+1192,950000,7,4,380,GBA Oeste,Moreno,2500
+1193,1250000,5,4,500,GBA Oeste,Moreno,2500
+1194,1380000,7,7,925,GBA Oeste,Moreno,1492
+1195,1400000,10,7,710,GBA Oeste,Moreno,1972
+1196,1800000,6,7,602,GBA Oeste,Moreno,2990
+1197,54900,3,1,52,GBA Oeste,Moron,1056
+1198,79000,3,1,60,GBA Oeste,Moron,1317
+1199,86000,4,1,124,GBA Oeste,Moron,694
+1200,95000,5,2,180,GBA Oeste,Moron,528
+1201,105000,4,1,129,GBA Oeste,Moron,814
+1202,110000,4,2,200,GBA Oeste,Moron,550
+1203,110000,4,1,142,GBA Oeste,Moron,775
+1204,115000,3,2,104,GBA Oeste,Moron,1106
+1205,128000,3,2,168,GBA Oeste,Moron,762
+1206,134000,3,2,180,GBA Oeste,Moron,744
+1207,135000,3,1,182,GBA Oeste,Moron,742
+1208,140000,5,2,105,GBA Oeste,Moron,1333
+1209,140000,4,2,140,GBA Oeste,Moron,1000
+1210,140000,4,1,110,GBA Oeste,Moron,1273
+1211,150000,3,1,155,GBA Oeste,Moron,968
+1212,160000,4,2,99,GBA Oeste,Moron,1616
+1213,160000,4,3,130,GBA Oeste,Moron,1231
+1214,160000,4,2,160,GBA Oeste,Moron,1000
+1215,165000,4,2,115,GBA Oeste,Moron,1435
+1216,165000,4,3,234,GBA Oeste,Moron,705
+1217,169500,4,3,180,GBA Oeste,Moron,942
+1218,180000,4,1,135,GBA Oeste,Moron,1333
+1219,185000,4,2,155,GBA Oeste,Moron,1194
+1220,185000,5,2,176,GBA Oeste,Moron,1051
+1221,185000,5,2,185,GBA Oeste,Moron,1000
+1222,185000,5,2,155,GBA Oeste,Moron,1194
+1223,189000,4,3,200,GBA Oeste,Moron,945
+1224,204900,5,2,294,GBA Oeste,Moron,697
+1225,210000,5,2,325,GBA Oeste,Moron,646
+1226,226000,5,3,180,GBA Oeste,Moron,1256
+1227,230000,5,3,184,GBA Oeste,Moron,1250
+1228,235000,6,4,447,GBA Oeste,Moron,526
+1229,237000,4,2,259,GBA Oeste,Moron,915
+1230,279700,5,2,260,GBA Oeste,Moron,1076
+1231,280000,4,3,290,GBA Oeste,Moron,966
+1232,285000,5,3,240,GBA Oeste,Moron,1188
+1233,299900,6,2,230,GBA Oeste,Moron,1304
+1234,320000,5,3,250,GBA Oeste,Moron,1280
+1235,325000,5,2,225,GBA Oeste,Moron,1444
+1236,326700,4,3,242,GBA Oeste,Moron,1350
+1237,330000,6,3,200,GBA Oeste,Moron,1650
+1238,338000,5,3,264,GBA Oeste,Moron,1280
+1239,350000,6,3,274,GBA Oeste,Moron,1277
+1240,415000,7,4,464,GBA Oeste,Moron,894
+1241,450000,5,3,282,GBA Oeste,Moron,1596
+1242,80000,4,1,90,GBA Oeste,Tres de Febrero,889
+1243,92000,4,1,120,GBA Oeste,Tres de Febrero,767
+1244,92000,4,3,178,GBA Oeste,Tres de Febrero,517
+1245,95000,3,1,84,GBA Oeste,Tres de Febrero,1131
+1246,98000,5,2,251,GBA Oeste,Tres de Febrero,390
+1247,100000,3,1,90,GBA Oeste,Tres de Febrero,1111
+1248,105000,4,1,103,GBA Oeste,Tres de Febrero,1019
+1249,109000,5,2,140,GBA Oeste,Tres de Febrero,779
+1250,115000,4,2,192,GBA Oeste,Tres de Febrero,599
+1251,119000,5,1,154,GBA Oeste,Tres de Febrero,773
+1252,119000,6,2,145,GBA Oeste,Tres de Febrero,821
+1253,119900,3,1,80,GBA Oeste,Tres de Febrero,1499
+1254,120000,3,1,125,GBA Oeste,Tres de Febrero,960
+1255,120000,4,2,109,GBA Oeste,Tres de Febrero,1101
+1256,120000,3,2,160,GBA Oeste,Tres de Febrero,750
+1257,138000,3,2,176,GBA Oeste,Tres de Febrero,784
+1258,139900,5,2,100,GBA Oeste,Tres de Febrero,1399
+1259,140000,5,2,140,GBA Oeste,Tres de Febrero,1000
+1260,145000,6,2,200,GBA Oeste,Tres de Febrero,725
+1261,148000,4,2,149,GBA Oeste,Tres de Febrero,993
+1262,149000,4,1,150,GBA Oeste,Tres de Febrero,993
+1263,155000,4,2,213,GBA Oeste,Tres de Febrero,728
+1264,180000,4,3,308,GBA Oeste,Tres de Febrero,584
+1265,185000,4,4,136,GBA Oeste,Tres de Febrero,1360
+1266,195000,4,3,145,GBA Oeste,Tres de Febrero,1345
+1267,200000,9,4,270,GBA Oeste,Tres de Febrero,741
+1268,200000,5,3,220,GBA Oeste,Tres de Febrero,909
+1269,205000,4,2,120,GBA Oeste,Tres de Febrero,1708
+1270,210000,4,1,147,GBA Oeste,Tres de Febrero,1429
+1271,219900,6,2,300,GBA Oeste,Tres de Febrero,733
+1272,220000,4,2,175,GBA Oeste,Tres de Febrero,1257
+1273,225000,2,1,160,GBA Oeste,Tres de Febrero,1406
+1274,250000,4,4,200,GBA Oeste,Tres de Febrero,1250
+1275,250000,3,3,150,GBA Oeste,Tres de Febrero,1667
+1276,255000,4,1,213,GBA Oeste,Tres de Febrero,1197
+1277,260000,5,1,220,GBA Oeste,Tres de Febrero,1182
+1278,269000,7,4,300,GBA Oeste,Tres de Febrero,897
+1279,269000,3,2,130,GBA Oeste,Tres de Febrero,2069
+1280,289000,4,3,200,GBA Oeste,Tres de Febrero,1445
+1281,389000,5,3,335,GBA Oeste,Tres de Febrero,1161
+1282,390000,4,2,217,GBA Oeste,Tres de Febrero,1797
+1283,470000,4,2,182,GBA Oeste,Tres de Febrero,2582
+1284,495000,7,4,352,GBA Oeste,Tres de Febrero,1406
+1285,500000,5,3,270,GBA Oeste,Tres de Febrero,1852
+1286,975000,5,3,405,GBA Oeste,Tres de Febrero,2407
+1287,45000,3,1,120,GBA Sur,Almirante Brown,375
+1288,48000,4,1,89,GBA Sur,Almirante Brown,539
+1289,55000,5,2,136,GBA Sur,Almirante Brown,404
+1290,75000,3,1,80,GBA Sur,Almirante Brown,938
+1291,79999,4,1,104,GBA Sur,Almirante Brown,769
+1292,84892,5,2,220,GBA Sur,Almirante Brown,386
+1293,99000,5,2,120,GBA Sur,Almirante Brown,825
+1294,115000,4,1,167,GBA Sur,Almirante Brown,689
+1295,115000,3,1,100,GBA Sur,Almirante Brown,1150
+1296,118000,5,2,132,GBA Sur,Almirante Brown,894
+1297,118000,4,2,115,GBA Sur,Almirante Brown,1026
+1298,119000,4,1,106,GBA Sur,Almirante Brown,1123
+1299,120000,4,2,157,GBA Sur,Almirante Brown,764
+1300,125000,4,1,118,GBA Sur,Almirante Brown,1059
+1301,139000,5,1,290,GBA Sur,Almirante Brown,479
+1302,139000,5,1,290,GBA Sur,Almirante Brown,479
+1303,155000,4,2,180,GBA Sur,Almirante Brown,861
+1304,160000,5,2,240,GBA Sur,Almirante Brown,667
+1305,170000,5,2,135,GBA Sur,Almirante Brown,1259
+1306,185000,4,2,128,GBA Sur,Almirante Brown,1445
+1307,187000,4,2,120,GBA Sur,Almirante Brown,1558
+1308,193000,4,2,104,GBA Sur,Almirante Brown,1856
+1309,197000,5,2,135,GBA Sur,Almirante Brown,1459
+1310,220000,4,3,220,GBA Sur,Almirante Brown,1000
+1311,230000,3,2,131,GBA Sur,Almirante Brown,1756
+1312,260000,5,3,268,GBA Sur,Almirante Brown,970
+1313,275000,5,2,218,GBA Sur,Almirante Brown,1261
+1314,300000,5,2,180,GBA Sur,Almirante Brown,1667
+1315,385000,7,3,360,GBA Sur,Almirante Brown,1069
+1316,495000,5,2,238,GBA Sur,Almirante Brown,2080
+1317,675000,5,3,365,GBA Sur,Almirante Brown,1849
+1318,1100000,5,3,335,GBA Sur,Almirante Brown,3284
+1319,1500000,7,7,629,GBA Sur,Almirante Brown,2385
+1320,25000,3,1,90,GBA Sur,Avellaneda,278
+1321,52000,2,1,121,GBA Sur,Avellaneda,430
+1322,53000,3,1,72,GBA Sur,Avellaneda,736
+1323,59000,3,2,110,GBA Sur,Avellaneda,536
+1324,60000,4,1,100,GBA Sur,Avellaneda,600
+1325,65000,4,2,64,GBA Sur,Avellaneda,1016
+1326,65000,3,1,80,GBA Sur,Avellaneda,812
+1327,65000,6,2,246,GBA Sur,Avellaneda,264
+1328,68000,6,2,103,GBA Sur,Avellaneda,660
+1329,72000,4,1,91,GBA Sur,Avellaneda,791
+1330,74900,3,1,138,GBA Sur,Avellaneda,543
+1331,75000,4,1,77,GBA Sur,Avellaneda,974
+1332,75000,3,1,97,GBA Sur,Avellaneda,773
+1333,75000,3,1,76,GBA Sur,Avellaneda,987
+1334,77000,5,1,259,GBA Sur,Avellaneda,297
+1335,78000,3,1,104,GBA Sur,Avellaneda,750
+1336,85000,4,2,176,GBA Sur,Avellaneda,483
+1337,85000,4,2,127,GBA Sur,Avellaneda,669
+1338,87000,4,2,215,GBA Sur,Avellaneda,405
+1339,98000,5,2,130,GBA Sur,Avellaneda,754
+1340,99999,4,3,286,GBA Sur,Avellaneda,350
+1341,100000,3,1,95,GBA Sur,Avellaneda,1053
+1342,110000,3,2,200,GBA Sur,Avellaneda,550
+1343,122000,4,2,183,GBA Sur,Avellaneda,667
+1344,130000,4,2,180,GBA Sur,Avellaneda,722
+1345,135000,6,3,283,GBA Sur,Avellaneda,477
+1346,140000,4,3,190,GBA Sur,Avellaneda,737
+1347,140000,4,2,108,GBA Sur,Avellaneda,1296
+1348,150000,5,2,196,GBA Sur,Avellaneda,765
+1349,155000,5,2,160,GBA Sur,Avellaneda,969
+1350,164000,6,4,207,GBA Sur,Avellaneda,792
+1351,165000,3,2,133,GBA Sur,Avellaneda,1241
+1352,165000,4,2,123,GBA Sur,Avellaneda,1341
+1353,168000,4,3,158,GBA Sur,Avellaneda,1063
+1354,169000,6,2,133,GBA Sur,Avellaneda,1271
+1355,175000,4,3,215,GBA Sur,Avellaneda,814
+1356,180000,5,2,200,GBA Sur,Avellaneda,900
+1357,185000,3,2,170,GBA Sur,Avellaneda,1088
+1358,185000,5,3,230,GBA Sur,Avellaneda,804
+1359,195000,5,1,198,GBA Sur,Avellaneda,985
+1360,220000,6,4,277,GBA Sur,Avellaneda,794
+1361,225000,3,2,143,GBA Sur,Avellaneda,1573
+1362,230000,4,2,150,GBA Sur,Avellaneda,1533
+1363,250000,4,2,173,GBA Sur,Avellaneda,1445
+1364,270000,5,3,211,GBA Sur,Avellaneda,1280
+1365,290000,7,3,258,GBA Sur,Avellaneda,1124
+1366,40000,4,1,90,GBA Sur,Berazategui,444
+1367,65000,3,1,80,GBA Sur,Berazategui,812
+1368,70000,3,1,78,GBA Sur,Berazategui,897
+1369,75000,3,1,65,GBA Sur,Berazategui,1154
+1370,85000,2,1,105,GBA Sur,Berazategui,810
+1371,95000,3,2,96,GBA Sur,Berazategui,990
+1372,110000,3,2,80,GBA Sur,Berazategui,1375
+1373,119000,5,2,185,GBA Sur,Berazategui,643
+1374,130000,4,2,182,GBA Sur,Berazategui,714
+1375,149999,7,4,278,GBA Sur,Berazategui,540
+1376,170000,4,2,208,GBA Sur,Berazategui,817
+1377,180000,5,1,98,GBA Sur,Berazategui,1837
+1378,189000,7,3,130,GBA Sur,Berazategui,1454
+1379,200000,3,1,90,GBA Sur,Berazategui,2222
+1380,225000,4,2,140,GBA Sur,Berazategui,1607
+1381,235000,5,2,174,GBA Sur,Berazategui,1351
+1382,310000,4,2,128,GBA Sur,Berazategui,2422
+1383,329000,4,2,145,GBA Sur,Berazategui,2269
+1384,340000,5,3,219,GBA Sur,Berazategui,1553
+1385,346000,6,2,205,GBA Sur,Berazategui,1688
+1386,350000,5,2,155,GBA Sur,Berazategui,2258
+1387,369000,5,2,200,GBA Sur,Berazategui,1845
+1388,390000,4,2,171,GBA Sur,Berazategui,2281
+1389,395000,5,2,227,GBA Sur,Berazategui,1740
+1390,425000,5,3,188,GBA Sur,Berazategui,2261
+1391,455000,6,2,260,GBA Sur,Berazategui,1750
+1392,460000,6,2,285,GBA Sur,Berazategui,1614
+1393,495000,9,3,234,GBA Sur,Berazategui,2115
+1394,500000,4,2,150,GBA Sur,Berazategui,3333
+1395,550000,4,3,228,GBA Sur,Berazategui,2412
+1396,585000,5,2,342,GBA Sur,Berazategui,1711
+1397,590000,6,4,292,GBA Sur,Berazategui,2021
+1398,595000,5,4,266,GBA Sur,Berazategui,2237
+1399,660000,4,3,239,GBA Sur,Berazategui,2762
+1400,750000,6,4,386,GBA Sur,Berazategui,1943
+1401,780000,6,3,355,GBA Sur,Berazategui,2197
+1402,850000,4,3,269,GBA Sur,Berazategui,3160
+1403,850000,5,4,292,GBA Sur,Berazategui,2911
+1404,850000,4,3,375,GBA Sur,Berazategui,2267
+1405,850000,5,3,454,GBA Sur,Berazategui,1872
+1406,990000,6,3,467,GBA Sur,Berazategui,2120
+1407,1200000,8,4,414,GBA Sur,Berazategui,2899
+1408,1200000,5,5,430,GBA Sur,Berazategui,2791
+1409,1300000,6,5,528,GBA Sur,Berazategui,2462
+1410,1500000,6,5,542,GBA Sur,Berazategui,2768
+1411,1550000,7,3,653,GBA Sur,Berazategui,2374
+1412,2200000,14,7,606,GBA Sur,Berazategui,3630
+1413,27000,3,1,52,GBA Sur,Esteban Echeverria,519
+1414,80000,3,1,75,GBA Sur,Esteban Echeverria,1067
+1415,120000,3,1,75,GBA Sur,Esteban Echeverria,1600
+1416,150000,7,2,179,GBA Sur,Esteban Echeverria,838
+1417,159000,4,3,100,GBA Sur,Esteban Echeverria,1590
+1418,165000,4,3,150,GBA Sur,Esteban Echeverria,1100
+1419,175000,6,2,197,GBA Sur,Esteban Echeverria,888
+1420,179900,3,3,170,GBA Sur,Esteban Echeverria,1058
+1421,185000,4,3,170,GBA Sur,Esteban Echeverria,1088
+1422,185000,4,4,140,GBA Sur,Esteban Echeverria,1321
+1423,195000,4,3,270,GBA Sur,Esteban Echeverria,722
+1424,210000,5,3,700,GBA Sur,Esteban Echeverria,300
+1425,215000,4,2,365,GBA Sur,Esteban Echeverria,589
+1426,230000,4,4,220,GBA Sur,Esteban Echeverria,1045
+1427,235000,5,3,184,GBA Sur,Esteban Echeverria,1277
+1428,240000,5,2,190,GBA Sur,Esteban Echeverria,1263
+1429,245000,4,2,765,GBA Sur,Esteban Echeverria,320
+1430,250000,4,2,200,GBA Sur,Esteban Echeverria,1250
+1431,255000,4,3,215,GBA Sur,Esteban Echeverria,1186
+1432,260000,5,4,175,GBA Sur,Esteban Echeverria,1486
+1433,265000,4,3,186,GBA Sur,Esteban Echeverria,1425
+1434,275000,7,4,246,GBA Sur,Esteban Echeverria,1118
+1435,289000,4,3,188,GBA Sur,Esteban Echeverria,1537
+1436,295000,5,3,220,GBA Sur,Esteban Echeverria,1341
+1437,295000,5,3,348,GBA Sur,Esteban Echeverria,848
+1438,310000,6,3,220,GBA Sur,Esteban Echeverria,1409
+1439,318000,6,2,749,GBA Sur,Esteban Echeverria,425
+1440,340000,4,3,190,GBA Sur,Esteban Echeverria,1789
+1441,375000,6,4,207,GBA Sur,Esteban Echeverria,1812
+1442,375000,4,2,206,GBA Sur,Esteban Echeverria,1820
+1443,375000,4,4,206,GBA Sur,Esteban Echeverria,1820
+1444,390000,4,4,227,GBA Sur,Esteban Echeverria,1718
+1445,395000,6,2,176,GBA Sur,Esteban Echeverria,2244
+1446,595000,5,4,300,GBA Sur,Esteban Echeverria,1983
+1447,830000,5,5,380,GBA Sur,Esteban Echeverria,2184
+1448,850000,4,4,350,GBA Sur,Esteban Echeverria,2429
+1449,880000,5,4,330,GBA Sur,Esteban Echeverria,2667
+1450,890000,6,5,400,GBA Sur,Esteban Echeverria,2225
+1451,980000,6,4,351,GBA Sur,Esteban Echeverria,2792
+1452,1111111,9,4,431,GBA Sur,Esteban Echeverria,2578
+1453,1550000,7,5,428,GBA Sur,Esteban Echeverria,3621
+1454,3000000,8,6,700,GBA Sur,Esteban Echeverria,4286
+1455,38000,3,1,108,GBA Sur,Ezeiza,352
+1456,97999,3,1,76,GBA Sur,Ezeiza,1289
+1457,115000,5,2,160,GBA Sur,Ezeiza,719
+1458,119999,4,2,170,GBA Sur,Ezeiza,706
+1459,119999,3,1,125,GBA Sur,Ezeiza,960
+1460,124999,4,1,60,GBA Sur,Ezeiza,2083
+1461,130000,3,1,94,GBA Sur,Ezeiza,1383
+1462,149999,4,1,180,GBA Sur,Ezeiza,833
+1463,150000,3,2,195,GBA Sur,Ezeiza,769
+1464,150000,4,2,94,GBA Sur,Ezeiza,1596
+1465,197000,5,2,143,GBA Sur,Ezeiza,1378
+1466,210000,5,2,160,GBA Sur,Ezeiza,1312
+1467,230000,5,4,195,GBA Sur,Ezeiza,1179
+1468,235000,5,3,148,GBA Sur,Ezeiza,1588
+1469,239000,4,2,150,GBA Sur,Ezeiza,1593
+1470,260000,5,2,139,GBA Sur,Ezeiza,1871
+1471,265000,4,2,143,GBA Sur,Ezeiza,1853
+1472,269999,4,2,250,GBA Sur,Ezeiza,1080
+1473,270000,5,3,240,GBA Sur,Ezeiza,1125
+1474,305000,4,2,200,GBA Sur,Ezeiza,1525
+1475,320000,7,3,249,GBA Sur,Ezeiza,1285
+1476,340000,5,3,252,GBA Sur,Ezeiza,1349
+1477,350000,3,3,260,GBA Sur,Ezeiza,1346
+1478,350000,4,2,270,GBA Sur,Ezeiza,1296
+1479,440000,5,3,200,GBA Sur,Ezeiza,2200
+1480,440000,9,4,300,GBA Sur,Ezeiza,1467
+1481,480000,4,2,251,GBA Sur,Ezeiza,1912
+1482,530000,4,3,250,GBA Sur,Ezeiza,2120
+1483,540000,5,3,195,GBA Sur,Ezeiza,2769
+1484,550000,5,2,400,GBA Sur,Ezeiza,1375
+1485,550000,5,2,310,GBA Sur,Ezeiza,1774
+1486,590000,7,4,300,GBA Sur,Ezeiza,1967
+1487,599999,7,3,230,GBA Sur,Ezeiza,2609
+1488,650000,6,2,350,GBA Sur,Ezeiza,1857
+1489,690000,5,5,310,GBA Sur,Ezeiza,2226
+1490,820000,7,3,325,GBA Sur,Ezeiza,2523
+1491,870000,5,6,290,GBA Sur,Ezeiza,3000
+1492,920000,6,6,372,GBA Sur,Ezeiza,2473
+1493,1290000,6,7,460,GBA Sur,Ezeiza,2804
+1494,1500000,7,5,440,GBA Sur,Ezeiza,3409
+1495,47500,3,1,50,GBA Sur,La Plata,950
+1496,49000,4,1,100,GBA Sur,La Plata,490
+1497,75000,4,1,133,GBA Sur,La Plata,564
+1498,87000,5,2,200,GBA Sur,La Plata,435
+1499,89000,3,1,65,GBA Sur,La Plata,1369
+1500,95000,3,1,80,GBA Sur,La Plata,1188
+1501,115000,3,2,100,GBA Sur,La Plata,1150
+1502,119000,6,2,135,GBA Sur,La Plata,881
+1503,120000,4,2,157,GBA Sur,La Plata,764
+1504,124900,5,2,161,GBA Sur,La Plata,776
+1505,125000,6,4,210,GBA Sur,La Plata,595
+1506,138000,5,1,92,GBA Sur,La Plata,1500
+1507,140000,6,2,120,GBA Sur,La Plata,1167
+1508,145000,3,2,132,GBA Sur,La Plata,1098
+1509,147000,4,1,110,GBA Sur,La Plata,1336
+1510,149000,2,1,136,GBA Sur,La Plata,1096
+1511,150000,4,1,140,GBA Sur,La Plata,1071
+1512,160000,3,2,97,GBA Sur,La Plata,1649
+1513,160000,5,3,172,GBA Sur,La Plata,930
+1514,160000,9,1,209,GBA Sur,La Plata,766
+1515,175000,3,2,131,GBA Sur,La Plata,1336
+1516,180000,7,2,209,GBA Sur,La Plata,861
+1517,189500,4,1,139,GBA Sur,La Plata,1363
+1518,200000,8,3,253,GBA Sur,La Plata,791
+1519,219000,5,2,145,GBA Sur,La Plata,1510
+1520,225000,2,2,176,GBA Sur,La Plata,1278
+1521,226000,6,2,128,GBA Sur,La Plata,1766
+1522,227000,5,2,214,GBA Sur,La Plata,1061
+1523,230000,5,1,140,GBA Sur,La Plata,1643
+1524,248000,4,3,160,GBA Sur,La Plata,1550
+1525,250000,4,3,152,GBA Sur,La Plata,1645
+1526,250000,4,2,152,GBA Sur,La Plata,1645
+1527,270000,7,4,350,GBA Sur,La Plata,771
+1528,280000,6,4,374,GBA Sur,La Plata,749
+1529,300000,4,2,238,GBA Sur,La Plata,1261
+1530,310000,4,2,170,GBA Sur,La Plata,1824
+1531,315000,5,4,242,GBA Sur,La Plata,1302
+1532,320000,4,2,370,GBA Sur,La Plata,865
+1533,330000,7,3,270,GBA Sur,La Plata,1222
+1534,330000,4,2,131,GBA Sur,La Plata,2519
+1535,349000,8,2,161,GBA Sur,La Plata,2168
+1536,350000,5,4,340,GBA Sur,La Plata,1029
+1537,420000,5,4,310,GBA Sur,La Plata,1355
+1538,45000,3,1,75,GBA Sur,Lanus,600
+1539,49000,4,2,90,GBA Sur,Lanus,544
+1540,49000,3,1,100,GBA Sur,Lanus,490
+1541,58500,4,1,82,GBA Sur,Lanus,713
+1542,65000,6,2,90,GBA Sur,Lanus,722
+1543,69000,4,2,174,GBA Sur,Lanus,397
+1544,75000,5,2,100,GBA Sur,Lanus,750
+1545,75000,4,2,99,GBA Sur,Lanus,758
+1546,80000,3,2,160,GBA Sur,Lanus,500
+1547,80000,3,1,89,GBA Sur,Lanus,899
+1548,91000,6,3,228,GBA Sur,Lanus,399
+1549,92000,3,2,153,GBA Sur,Lanus,601
+1550,95000,3,2,183,GBA Sur,Lanus,519
+1551,99900,3,1,90,GBA Sur,Lanus,1110
+1552,110000,3,1,155,GBA Sur,Lanus,710
+1553,114990,6,3,150,GBA Sur,Lanus,767
+1554,119990,6,2,154,GBA Sur,Lanus,779
+1555,120000,7,4,222,GBA Sur,Lanus,541
+1556,120000,5,1,178,GBA Sur,Lanus,674
+1557,125000,3,1,140,GBA Sur,Lanus,893
+1558,135000,5,2,128,GBA Sur,Lanus,1055
+1559,135000,5,2,150,GBA Sur,Lanus,900
+1560,138000,3,1,201,GBA Sur,Lanus,687
+1561,139900,3,1,68,GBA Sur,Lanus,2057
+1562,144900,5,2,148,GBA Sur,Lanus,979
+1563,145000,4,2,183,GBA Sur,Lanus,792
+1564,150000,5,2,150,GBA Sur,Lanus,1000
+1565,160000,7,1,320,GBA Sur,Lanus,500
+1566,169000,5,2,162,GBA Sur,Lanus,1043
+1567,175000,5,2,196,GBA Sur,Lanus,893
+1568,180000,4,2,97,GBA Sur,Lanus,1856
+1569,183000,9,5,310,GBA Sur,Lanus,590
+1570,185000,6,2,171,GBA Sur,Lanus,1082
+1571,190000,5,2,191,GBA Sur,Lanus,995
+1572,195000,6,3,213,GBA Sur,Lanus,915
+1573,199000,4,1,262,GBA Sur,Lanus,760
+1574,230000,4,2,132,GBA Sur,Lanus,1742
+1575,240000,5,2,200,GBA Sur,Lanus,1200
+1576,249000,6,3,220,GBA Sur,Lanus,1132
+1577,250000,5,3,255,GBA Sur,Lanus,980
+1578,250000,6,2,290,GBA Sur,Lanus,862
+1579,260000,4,2,230,GBA Sur,Lanus,1130
+1580,269900,6,2,238,GBA Sur,Lanus,1134
+1581,295000,4,3,353,GBA Sur,Lanus,836
+1582,350000,5,4,235,GBA Sur,Lanus,1489
+1583,45000,4,1,85,GBA Sur,Lomas de Zamora,529
+1584,64999,3,1,60,GBA Sur,Lomas de Zamora,1083
+1585,65000,3,1,75,GBA Sur,Lomas de Zamora,867
+1586,65000,4,1,69,GBA Sur,Lomas de Zamora,942
+1587,65000,3,1,84,GBA Sur,Lomas de Zamora,774
+1588,68000,4,2,190,GBA Sur,Lomas de Zamora,358
+1589,70000,5,1,75,GBA Sur,Lomas de Zamora,933
+1590,72000,4,2,126,GBA Sur,Lomas de Zamora,571
+1591,84900,6,4,215,GBA Sur,Lomas de Zamora,395
+1592,95000,4,2,119,GBA Sur,Lomas de Zamora,798
+1593,99000,4,1,97,GBA Sur,Lomas de Zamora,1021
+1594,115000,5,2,172,GBA Sur,Lomas de Zamora,669
+1595,123000,4,2,148,GBA Sur,Lomas de Zamora,831
+1596,135000,4,2,111,GBA Sur,Lomas de Zamora,1216
+1597,139000,4,2,130,GBA Sur,Lomas de Zamora,1069
+1598,145000,4,1,108,GBA Sur,Lomas de Zamora,1343
+1599,149500,3,1,147,GBA Sur,Lomas de Zamora,1017
+1600,154900,3,1,85,GBA Sur,Lomas de Zamora,1822
+1601,164990,5,2,180,GBA Sur,Lomas de Zamora,917
+1602,170000,5,2,210,GBA Sur,Lomas de Zamora,810
+1603,179900,4,2,210,GBA Sur,Lomas de Zamora,857
+1604,180000,3,4,350,GBA Sur,Lomas de Zamora,514
+1605,180000,3,1,108,GBA Sur,Lomas de Zamora,1667
+1606,194990,5,2,131,GBA Sur,Lomas de Zamora,1488
+1607,199000,3,1,150,GBA Sur,Lomas de Zamora,1327
+1608,210000,4,3,228,GBA Sur,Lomas de Zamora,921
+1609,239000,5,1,320,GBA Sur,Lomas de Zamora,747
+1610,239000,5,5,214,GBA Sur,Lomas de Zamora,1117
+1611,258999,4,2,150,GBA Sur,Lomas de Zamora,1727
+1612,272000,5,4,370,GBA Sur,Lomas de Zamora,735
+1613,275000,5,3,248,GBA Sur,Lomas de Zamora,1109
+1614,289900,6,4,235,GBA Sur,Lomas de Zamora,1234
+1615,289990,7,4,273,GBA Sur,Lomas de Zamora,1062
+1616,320000,5,3,219,GBA Sur,Lomas de Zamora,1461
+1617,350000,6,3,120,GBA Sur,Lomas de Zamora,2917
+1618,359990,6,1,191,GBA Sur,Lomas de Zamora,1885
+1619,460000,5,3,224,GBA Sur,Lomas de Zamora,2054
+1620,470000,5,3,253,GBA Sur,Lomas de Zamora,1858
+1621,494000,7,3,266,GBA Sur,Lomas de Zamora,1857
+1622,549000,5,4,335,GBA Sur,Lomas de Zamora,1639
+1623,890000,6,3,300,GBA Sur,Lomas de Zamora,2967
+1624,49500,3,1,97,GBA Sur,Quilmes,510
+1625,58000,3,1,90,GBA Sur,Quilmes,644
+1626,65000,4,2,225,GBA Sur,Quilmes,289
+1627,74900,3,1,105,GBA Sur,Quilmes,713
+1628,75000,3,1,70,GBA Sur,Quilmes,1071
+1629,75000,4,2,113,GBA Sur,Quilmes,664
+1630,75000,4,1,100,GBA Sur,Quilmes,750
+1631,99000,3,2,250,GBA Sur,Quilmes,396
+1632,105000,4,2,155,GBA Sur,Quilmes,677
+1633,110000,3,1,445,GBA Sur,Quilmes,247
+1634,119000,4,3,155,GBA Sur,Quilmes,768
+1635,120000,6,2,159,GBA Sur,Quilmes,755
+1636,125000,4,2,186,GBA Sur,Quilmes,672
+1637,125000,3,1,180,GBA Sur,Quilmes,694
+1638,125000,3,1,122,GBA Sur,Quilmes,1025
+1639,128000,5,3,145,GBA Sur,Quilmes,883
+1640,130000,5,2,125,GBA Sur,Quilmes,1040
+1641,130000,5,2,200,GBA Sur,Quilmes,650
+1642,135000,3,2,121,GBA Sur,Quilmes,1116
+1643,135000,4,2,177,GBA Sur,Quilmes,763
+1644,135000,4,2,111,GBA Sur,Quilmes,1216
+1645,139000,2,1,84,GBA Sur,Quilmes,1655
+1646,139900,4,1,245,GBA Sur,Quilmes,571
+1647,145000,5,2,174,GBA Sur,Quilmes,833
+1648,148000,5,2,251,GBA Sur,Quilmes,590
+1649,150000,3,2,80,GBA Sur,Quilmes,1875
+1650,153000,4,1,98,GBA Sur,Quilmes,1561
+1651,155000,4,3,293,GBA Sur,Quilmes,529
+1652,160000,4,2,145,GBA Sur,Quilmes,1103
+1653,170000,4,2,229,GBA Sur,Quilmes,742
+1654,177000,6,3,323,GBA Sur,Quilmes,548
+1655,180000,4,3,219,GBA Sur,Quilmes,822
+1656,189000,4,1,250,GBA Sur,Quilmes,756
+1657,230000,4,3,323,GBA Sur,Quilmes,712
+1658,230000,3,2,137,GBA Sur,Quilmes,1679
+1659,240000,8,3,380,GBA Sur,Quilmes,632
+1660,240000,6,2,240,GBA Sur,Quilmes,1000
+1661,275000,4,3,197,GBA Sur,Quilmes,1396
+1662,280000,4,2,183,GBA Sur,Quilmes,1530
+1663,320000,6,2,220,GBA Sur,Quilmes,1455
+1664,325000,5,3,281,GBA Sur,Quilmes,1157
+1665,450000,5,2,274,GBA Sur,Quilmes,1642
+1666,600000,4,3,190,GBA Sur,Quilmes,3158
+1667,899900,5,4,330,GBA Sur,Quilmes,2727
+1668,1050000,5,5,402,GBA Sur,Quilmes,2612
+1669,1199000,6,6,331,GBA Sur,Quilmes,3622
+1670,1290000,4,4,539,GBA Sur,Quilmes,2393
