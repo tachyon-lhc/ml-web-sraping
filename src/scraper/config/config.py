@@ -43,7 +43,7 @@ DELAY_RETRY_MIN = 5
 DELAY_RETRY_MAX = 10
 
 # Configuración de scraping
-PAGINAS_POR_CIUDAD = 2
+PAGINAS_POR_CIUDAD = 1
 MAX_REINTENTOS = 3  # Intentos con diferentes headers si falla# Estructura jerárquica: zona -> ciudades -> URL
 
 UBICACIONES = {
@@ -107,3 +107,4 @@ LIMITES = {
     "metros": {"min": 20, "max": 5000},
     "precio": {"min": 10000, "max": 10000000},
 }
+
