@@ -1,3 +1,51 @@
+"""
+Configuración del scraper
+Contiene URLs, headers y constantes
+"""
+
+import random
+
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
+    "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+]
+
+
+def obtener_headers_aleatorios():
+    """Genera un conjunto de headers aleatorios"""
+    return {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "es-ES,es;q=0.5",
+    }
+
+
+# Headers por defecto (se usarán si no se especifica rotación)
+HEADERS = obtener_headers_aleatorios()
+
+
+# Delays aleatorios
+def obtener_delay_aleatorio(min_seg, max_seg):
+    """Genera un delay aleatorio entre min y max segundos"""
+    return random.uniform(min_seg, max_seg)
+
+
+# Configuración de delays
+DELAY_ENTRE_PAGINAS_MIN = 2
+DELAY_ENTRE_PAGINAS_MAX = 4
+DELAY_ENTRE_CIUDADES_MIN = 3
+DELAY_ENTRE_CIUDADES_MAX = 6
+DELAY_RETRY_MIN = 5
+DELAY_RETRY_MAX = 10
+
+# Configuración de scraping
+PAGINAS_POR_CIUDAD = 2
+MAX_REINTENTOS = 3  # Intentos con diferentes headers si falla# Estructura jerárquica: zona -> ciudades -> URL
+
 UBICACIONES = {
     "GBA Norte": {
         "Pilar": "https://inmuebles.mercadolibre.com.ar/casas/venta/bsas-gba-norte/pilar/",
