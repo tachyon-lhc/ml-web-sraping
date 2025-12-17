@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import time
 
 
-from config.config import (
+from .config.config import (
     obtener_headers_aleatorios,
     obtener_delay_aleatorio,
     LIMITES,
@@ -17,7 +17,7 @@ from config.config import (
     DELAY_ENTRE_CIUDADES_MAX,
 )
 
-from utils.utils import (
+from .utils.utils import (
     es_valor_exacto,
     extraer_numero,
     validar_rango,
@@ -217,7 +217,7 @@ def scrapear_ciudad(zona, ciudad, url_base, num_paginas, headers=None):
 
 
 def scrapear_todo(ubicaciones, paginas_por_ciudad):
-    from retry_manager import RetryManager
+    from .utils.retry_manager import RetryManager
 
     todas_propiedades = []
     stats_ciudades = {}
