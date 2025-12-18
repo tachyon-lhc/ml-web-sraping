@@ -62,8 +62,12 @@ def generar_reporte_ciudades(stats_ciudades):
             print(f"  - {row['Ciudad']}")
 
     # Guardar reporte en CSV
-    df.to_csv("data/processed/reporte_ciudades.csv", index=False, encoding="utf-8-sig")
-    print("\n📁 Reporte guardado: data/processed/reporte_ciudades.csv")
+    df.to_csv(
+        "~/home/tachyon/proyectos-ML/ML-web_scraping/data/reports/report_cities.csv",
+        index=False,
+        encoding="utf-8-sig",
+    )
+    print("\n📁 Reporte guardado: data/reports/report_cities.csv")
 
 
 def generar_reporte_completo(df, stats_ciudades):

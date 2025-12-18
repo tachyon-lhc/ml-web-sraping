@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 
-ruta = "~/home/tachyon/proyectos-ML/ML-web_scraping/data/processed/husing.csv"
+ruta = "~/home/tachyon/proyectos-ML/ML-web_scraping/data/raw/husing.csv"
 
 df = pd.read_csv(ruta)
 
@@ -58,9 +58,7 @@ print("\n" + "=" * 80)
 print("GENERANDO REPORTE DETALLADO...")
 print("=" * 80)
 
-report_filename = (
-    f"data_distribution_report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
-)
+report_filename = f"~/home/tachyon/proyectos-ML/ML-web_scraping/data/reports/data_distribution_report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
 
 with open(report_filename, "w", encoding="utf-8") as f:
     # Encabezado del reporte
@@ -173,7 +171,7 @@ print(df[["price", "rooms", "bathrooms", "square_meters", "price_per_m2"]].descr
 
 # 8. Guardar dataset limpio
 output_file = (
-    "~/home/tachyon/proyectos-ML/ML-web_scraping/data/processed/properties_clean_2.csv"
+    "~/home/tachyon/proyectos-ML/ML-web_scraping/data/processed/housing_clean.csv"
 )
 df.to_csv(output_file, index=False)
 print(f"\n✅ Dataset limpio guardado en: {output_file}")

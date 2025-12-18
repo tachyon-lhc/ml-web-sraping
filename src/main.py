@@ -57,9 +57,7 @@ def main():
     df = procesar_datos_completo(propiedades, stats_ciudades)
 
     # Guardar
-    nombre_archivo = (
-        "~/home/tachyon/proyectos-ML/ML-web_scraping/data/processed/husing.csv"
-    )
+    nombre_archivo = "~/home/tachyon/proyectos-ML/ML-web_scraping/data/raw/husing.csv"
     guardar_csv(df, nombre_archivo)
 
     print("\n" + "=" * 60)
