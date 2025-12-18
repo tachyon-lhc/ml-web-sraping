@@ -3,7 +3,6 @@ Sistema de reintentos con rotación de headers
 """
 
 import time
-import random
 from ..config.config import (
     obtener_headers_aleatorios,
     obtener_delay_aleatorio,

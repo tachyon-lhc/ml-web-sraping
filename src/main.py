@@ -42,9 +42,12 @@ def main():
             print(f"  - {ciudad}")
 
         # Guardar lista de fallidas
-        with open("data/processed/ciudades_fallidas.txt", "w") as f:
+        with open(
+            "~/home/tachyon/proyectos-ML/ML-web_scraping/data/reports/ciudades_fallidas.txt",
+            "w",
+        ) as f:
             f.write("\n".join(ciudades_fallidas))
-        print("\n📁 Lista guardada en: data/processed/ciudades_fallidas.txt")
+        print("\n📁 Lista guardada en: data/reports/ciudades_fallidas.txt")
     else:
         print("\n✓ Todas las ciudades scrapeadas exitosamente")
 
