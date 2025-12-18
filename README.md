@@ -45,7 +45,7 @@ ml-web-scraping/
 1. **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/ml-web-scraping.git
+git clone https://github.com/tachyon-lhc/ml-web-scraping.git
 cd ml-web-scraping
 ```
 
